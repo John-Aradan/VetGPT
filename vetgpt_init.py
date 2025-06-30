@@ -1,3 +1,5 @@
+import re
+from urllib.parse import urlparse
 from dotenv import load_dotenv
 import os
 import json
@@ -52,8 +54,13 @@ urls, metas = load_urls_and_metadata(r"D:\VetAI\data\John.json")
 
 # Step 3: Custom Loader for VCAHospitals
 def load_vca_sections(url: str) -> list[Document]:
+    parsed = urlparse(url)
+    if parsed.netloc not in ("vcahospitals.com", "www.vcahospitals.com"):
+        return []
+    
     resp = requests.get(url, headers={"User-Agent": os.getenv("USER_AGENT", "")})
     resp.raise_for_status()
+    
     soup = BeautifulSoup(resp.text, "html.parser")
     start = soup.find("section", class_="py-5")
     if not start:
@@ -61,26 +68,20 @@ def load_vca_sections(url: str) -> list[Document]:
     sibling = start.find_next_sibling("section")
     parts = [start, sibling] if sibling else [start]
     combined = "\n\n".join(p.get_text(separator="\n", strip=True) for p in parts)
-    return [Document(page_content=combined, metadata={"source": url})]
+
+    text = re.split(r'© Copyright', combined)[0]   # Stop at copyright
+
+    return [Document(page_content=text, metadata={"source": url})]
 
 
 # Step 4: Fetch Full Text from URLs via Custom Loader
 docs = []
-loaded = load_vca_sections("https://vcahospitals.com/know-your-pet/preventive-health-care-guidelines-for-dogs")
-if not loaded:
-    print(f"⚠️ Warning: no target section found at url")
+for url, meta in zip(urls, metas):
+    loaded_docs = load_vca_sections(url)
+    if not loaded_docs:
+        continue
+    for doc in loaded_docs:
+        doc.metadata.update(meta)
+        docs.append(doc)
 
-filename = f"preview_doc.txt"
-with open(filename, "w", encoding="utf-8") as f:
-    f.write(loaded[0].page_content)
-
-
-# # Step 3: Fetch Full Text from URLs via WebBaseLoader
-# docs = []
-# for url, meta in zip(urls, metas):
-#     loader = WebBaseLoader(url)
-#     loaded = loader.load()
-#     for doc in loaded:
-#         doc.metadata.update(meta)  # Add metadata to each document
-#         docs.append(doc)
-
+print(f"📄 Total clean documents ready: {len(docs)}")
