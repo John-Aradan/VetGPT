@@ -1,0 +1,1859 @@
+[
+  {
+    "source": "https://vcahospitals.com/know-your-pet/preventive-health-care-guidelines-for-dogs",
+    "title": "Preventive Health Care Guidelines for Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "This article outlines a structured, life-stage–based preventive care plan for dogs, including recommended veterinary visits, physical exams, wellness testing, vaccinations, parasite control, dental assessments, and tailored recommendations based on age and health status.",
+    "key_points": [
+      "Complete veterinary exam at least annually, more frequently as dogs age or have chronic conditions.",
+      "Wellness testing (blood, urine, fecal) to detect hidden disease.",
+      "Core immunizations, parasite control, dental and body-condition scoring as part of routine prevention."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Stick to life-stage visit and testing schedules; consult vet sooner if signs of illness appear or age-related changes occur.",
+    "topic_tags": ["preventive care", "vaccination", "parasite control", "wellness testing"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/why-preventive-health-care-is-important-for-dogs",
+    "title": "Why Preventive Healthcare Is Important for Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "This article explains how preventive care empowers early disease detection and management through routine exams, dental checks, pain and body-condition scoring, ultimately improving health, lifespan, and quality of life for dogs.",
+    "key_points": [
+      "Annual or more frequent exams to detect disease early when it's most manageable.",
+      "Inclusion of dental, pain, and body‑condition scoring in visits.",
+      "Life‑stage guidelines that adjust care based on age and emerging medical knowledge."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Ensure regular vet visits and follow updated life-stage recommendations; increase frequency with age or health concerns.",
+    "topic_tags": ["preventive care", "wellness exam", "early detection"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/wellness-examination-in-dogs",
+    "title": "Wellness Examination in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "This article details what happens during a wellness exam: gathering history about diet, behavior, elimination; conducting a full physical check (eyes, ears, mouth, heart, lungs, musculoskeletal); and recommending appropriate diagnostic tests and preventive interventions.",
+    "key_points": [
+      "History includes questions on diet, behavior, drinking, elimination, and activity.",
+      "Physical exam covers body condition, coat, eyes, ears, oral health, heart, lungs, lymph nodes, limbs.",
+      "Based on findings, vet may recommend vaccinations, parasite prevention, blood/urine/fecal testing, nutrition and dental care."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Attend regular wellness exams and prepare by collecting fecal samples; discuss individual preventive plans with vet.",
+    "topic_tags": ["wellness exam", "physical exam", "preventive testing"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-to-groom-a-dog/",
+    "title": "Dog Grooming Tips: How to Groom a Dog – AKC",
+    "persona_category": "Grooming & Product Care",
+    "summary": "This article provides practical advice for at-home dog grooming, covering brushing, bathing, nail trimming, ear and dental cleaning, coat care, and using the right tools and products to maintain coat and skin health.",
+    "key_points": [
+      "Brush regularly based on coat type to prevent mats and reduce shedding.",
+      "Use gentle shampoo and conditioner during baths; dry thoroughly.",
+      "Trim nails carefully and inspect ears; clean teeth with vet-approved toothpaste."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Groom dogs at home regularly; seek professional grooming or vet care for severe matting, skin conditions, or grooming-related injuries.",
+    "topic_tags": ["brushing", "bathing", "nail care", "ear cleaning", "dental care"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/expert-tips-on-grooming-feet-eyes-and-ears/",
+    "title": "Expert Tips on Grooming Feet, Eyes, and Ears – AKC",
+    "persona_category": "Grooming & Product Care",
+    "summary": "This article highlights focused grooming techniques for feet, eyes, and ears—trimming fur between paw pads, keeping eyes clean, and maintaining ear hygiene to prevent infections and discomfort.",
+    "key_points": [
+      "Trim fur between pads to prevent mats, ice buildup, and improve traction.",
+      "Wipe eyes regularly to avoid tear stains and check for irritation.",
+      "Inspect and clean ears regularly, trimming hair and drying to prevent infection."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Monitor hygiene of feet, eyes, and ears; if signs of infection or injury appear, consult a groomer or veterinarian.",
+    "topic_tags": ["paw care", "eye cleaning", "ear hygiene"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/preventive-health-care-guidelines-for-dogs",
+    "title": "Preventive Health Care Guidelines for Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Overview of recommended preventive care for dogs including routine exams, vaccinations, parasite control, and wellness testing to maintain health across life stages.",
+    "key_points": [
+      "Annual or more frequent veterinary exams based on age or health",
+      "Vaccination and parasite control tailored to risk",
+      "Wellness tests (bloodwork, urinalysis) to detect hidden disease"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Follow regular vet exam and testing schedule; adjust frequency based on life stage or health issues.",
+    "topic_tags": ["preventive care", "vaccination", "parasite control", "wellness testing"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/why-preventive-health-care-is-important-for-dogs",
+    "title": "Why Preventive Health Care is Important for Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Explains how preventive veterinary care helps catch disease early, enabling more manageable treatment and promoting longer, healthier lives.",
+    "key_points": [
+      "Early detection allows easier disease management",
+      "Consistent veterinary guidance supports long-term wellness",
+      "Structured prevention plan improves lifespan and quality of life"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Enroll in routine wellness programs and act on vet’s prevention recommendations.",
+    "topic_tags": ["preventive care", "early detection", "wellness plan"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/wellness-examination-in-dogs",
+    "title": "Wellness Examination in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Describes what happens during a dog’s wellness exam: history review, physical check, dental, pain and body condition scoring, plus recommended screening tests.",
+    "key_points": [
+      "Comprehensive physical exam including dental and pain assessment",
+      "Lifestyle and dietary review",
+      "Screening tests like CBC, chemistry, urinalysis, thyroid"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Schedule annual or more frequent wellness exams; follow through with recommended tests.",
+    "topic_tags": ["wellness exam", "routine checkup", "screening tests"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/wellness-testing-for-dogs",
+    "title": "Wellness Testing for Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Details wellness testing as proactive screening in healthy dogs to uncover hidden disease early via blood tests and other diagnostics.",
+    "key_points": [
+      "Tests detect disease before symptoms appear",
+      "Includes CBC, biochemistry, urinalysis, thyroid testing",
+      "Early intervention prevents permanent damage"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Include comprehensive screening tests as part of wellness visits.",
+    "topic_tags": ["wellness testing", "early detection", "screening"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/common-emergencies-in-dogs",
+    "title": "Common Emergencies in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Reviews situations that qualify as medical emergencies in dogs, such as penetrating wounds, broken bones, head trauma, chest injuries, and eye injuries.",
+    "key_points": [
+      "Penetrating chest or abdomen wounds are emergencies",
+      "Eye injuries require immediate care",
+      "Head trauma, breathing difficulty, broken bones need urgent attention"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "urgent",
+    "recommendation": "Seek immediate veterinary care for any listed emergency signs.",
+    "topic_tags": ["emergency", "first aid", "trauma"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/vestibular-disease-in-dogs",
+    "title": "Vestibular Disease in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Explains vestibular disease: causes (inner ear, brain), symptoms like head tilt, imbalance, nystagmus, and notes idiopathic cases often improve rapidly.",
+    "key_points": [
+      "Sudden loss of balance, head tilt and jerking eye movements",
+      "Caused by ear infections, toxins, trauma, tumors, or idiopathic",
+      "Idiopathic cases often improve quickly with little treatment"
+    ],
+    "species": ["dog"],
+    "age_group": ["senior", "adult"],
+    "severity_level": "moderate",
+    "recommendation": "Veterinary diagnosis to identify cause; support with care, most idiopathic cases resolve.",
+    "topic_tags": ["vestibular disease", "balance", "nystagmus"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/hemorrhagic-gastroenteritis-in-dogs",
+    "title": "Gastroenteritis in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Describes acute hemorrhagic diarrhea syndrome: sudden vomiting and bloody diarrhea in healthy dogs, often painful and requires veterinary attention.",
+    "key_points": [
+      "Sudden onset vomiting, bloody diarrhea, lethargy, fever",
+      "Painful abdomen and decreased appetite",
+      "Occurs unexpectedly in otherwise healthy dogs"
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "senior"],
+    "severity_level": "urgent",
+    "recommendation": "Prompt vet care, likely need fluids and diagnostics.",
+    "topic_tags": ["gastroenteritis", "hemorrhagic diarrhea", "vomiting"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/inflammatory-bowel-disease-in-dogs",
+    "title": "Inflammatory Bowel Disease in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Covers IBD diagnosis via tissue biopsies (endoscopy/surgery), and notes biopsy-based diagnosis is required to confirm disease.",
+    "key_points": [
+      "Diagnosis requires tissue biopsies under anesthesia",
+      "Tests include endoscopy or exploratory surgery",
+      "Helps identify location and specific IBD type"
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "recommendation": "Vet biopsy for definitive diagnosis; manage with appropriate treatment.",
+    "topic_tags": ["IBD", "biopsy", "gastrointestinal disease"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/allergy-general-in-dogs",
+    "title": "Allergies in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "This VCA article explains that dogs can suffer from food, environmental, and flea-related allergies, with clinical signs like itching, digestive upset, and respiratory distress. Food allergies are diagnosed via elimination diet trials of at least 8–12 weeks, and treatment focuses on identifying and removing allergens.",
+    "key_points": [
+      "Allergy types include food, environmental (atopy), and flea allergies",
+      "Common signs: itching, digestive disorders, respiratory issues",
+      "Food allergy diagnosis requires strict elimination diet for 8–12 weeks"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Use elimination trials to confirm food allergies and consult a vet for tailored allergy testing and diet adjustments.",
+    "topic_tags": ["allergy", "food allergy", "atopy"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.merckvetmanual.com/dog-owners/routine-care-and-breeding-of-dogs/routine-health-care-of-dogs",
+    "title": "Routine Health Care of Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "The Merck Vet Manual outlines key components of routine dog health care including vaccinations, parasite control, dental care, grooming, and protection from household hazards to maintain overall well-being.",
+    "key_points": [
+      "Core routine care: vaccinations, parasite control, dental cleanings",
+      "Includes grooming and environmental hazard protection",
+      "Essential for long-term health maintenance"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Schedule regular vet visits for vaccinations, parasite prevention, dental care, and discuss hazard protection and grooming needs.",
+    "topic_tags": ["routine care", "preventive health", "vaccinations"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.merckvetmanual.com/dog-owners/digestive-disorders-of-dogs/introduction-to-digestive-disorders-of-dogs",
+    "title": "Introduction to Digestive Disorders of Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Digestive disease in dogs presents through signs like drooling, vomiting, diarrhea, abdominal pain, bleeding, and dehydration. Clinical signs can help localize disease in the GI tract.",
+    "key_points": [
+      "Symptoms include drooling, vomiting, diarrhea, constipation, abdominal pain",
+      "Bleeding and dehydration indicate more serious GI involvement",
+      "Location of symptoms can indicate specific GI tract disease"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "moderate",
+    "recommendation": "Any persistent GI symptoms like vomiting or bloody diarrhea warrant prompt vet evaluation.",
+    "topic_tags": ["digestive disorders", "vomiting", "diarrhea"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.merckvetmanual.com/behavior/normal-social-behavior-and-behavioral-problems-of-domestic-animals/behavioral-problems-of-dogs",
+    "title": "Behavioral Problems of Dogs",
+    "persona_category": "Behavior & Training",
+    "summary": "This manual discusses common dog behavioral issues—fears, phobias, separation anxiety, repetitive behaviors, aggression, and possessiveness—highlighting triggers and impacts on dog welfare.",
+    "key_points": [
+      "Common issues: fears/phobias, separation anxiety, repetitive behaviors, aggression",
+      "Aggressive behaviors vary by type and trigger",
+      "Early recognition is crucial for management"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "moderate",
+    "recommendation": "Seek veterinary or behaviorist support early when signs like aggression or anxiety begin.",
+    "topic_tags": ["behavioral problem", "aggression", "anxiety"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.avma.org/resources/pet-owners/petcare/preventive-pet-healthcare",
+    "title": "Preventive Pet Healthcare",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "The AVMA emphasizes a multi-faceted preventive care approach—regular exams, vaccinations, parasite control, dental care, nutrition, and risk assessment—tailored to each dog’s health status and lifestyle.",
+    "key_points": [
+      "Includes exams, vaccinations, parasite prevention, dental care, nutrition",
+      "Care personalized based on health status and risk",
+      "Prevention reduces disease risk"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Partner with your vet to create a personalized preventive plan including vaccinations, parasite control, and dental checks.",
+    "topic_tags": ["preventive care", "wellness exam", "parasite control"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/pet-owners/petcare/importance-wellness-exams",
+    "title": "Importance of Wellness Exams",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "AVMA highlights that regular wellness exams help detect health issues early when treatment is simpler, more effective, and less costly.",
+    "key_points": [
+      "Wellness exams detect problems early",
+      "Early detection helps effective and affordable treatment",
+      "Exams recommended on a regular schedule"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Schedule regular wellness exams—at least annually and more frequently for senior dogs.",
+    "topic_tags": ["wellness exam", "preventive care"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.avma.org/sites/default/files/resources/caninepreventiveguidelines_ppph.pdf",
+    "title": "AAHA–AVMA Canine Preventive Healthcare Guidelines",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Joint canine preventive healthcare guidelines recommend at least annual vet exams—often more often based on individual needs—and a comprehensive physical exam including dental, pain, and body condition assessments.",
+    "key_points": [
+      "Annual exams minimum; more frequent as needed",
+      "Includes dental, pain, and body condition scoring",
+      "Exam frequency tailored per dog"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Use these guidelines to discuss appropriate exam frequency and evaluation items with your vet.",
+    "topic_tags": ["preventive guidelines", "physical exam", "dental assessment"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.cdc.gov/parasites/toxocariasis/about/index.html",
+    "title": "About Toxocariasis",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "The CDC defines toxocariasis as a zoonotic infection from dog or cat roundworms (Toxocara), often asymptomatic in humans but sometimes causing fever, cough, abdominal pain or eye damage; it's treatable with medication.",
+    "key_points": [
+      "Zoonosis from dog/cat roundworms (Toxocara)",
+      "Often asymptomatic, but can cause fever, cough, abdominal pain, eye damage",
+      "Treatable with anthelmintic drugs"
+    ],
+    "species": ["dog"],
+    "age_group": [],
+    "severity_level": "urgent",
+    "recommendation": "Maintain regular deworming and hygiene to prevent zoonotic transmission.",
+    "topic_tags": ["parasites", "zoonosis", "roundworm"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.cdc.gov/parasites/zoonotichookworm/about/index.html",
+    "title": "Zoonotic Hookworm Infection",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "CDC describes zoonotic hookworm infections that spread from dog/cat feces to humans via skin contact, causing skin rash; prevention is via pet deworming and sanitation.",
+    "key_points": [
+      "Humans get hookworm rash via skin contact with contaminated feces",
+      "Dogs and cats are source animals",
+      "Prevent by pet deworming and clean hygiene"
+    ],
+    "species": ["dog"],
+    "age_group": [],
+    "severity_level": "moderate",
+    "recommendation": "Keep dogs on deworming schedules and clean up pet stool promptly to protect household health.",
+    "topic_tags": ["hookworm", "zoonosis", "parasite control"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.cdc.gov/healthy-pets/about/dogs.html",
+    "title": "Dogs | Healthy Pets, Healthy People",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "The CDC explains how dogs positively impact human health through companionship, stress relief, physical activity, and even detecting medical conditions, while emphasizing the importance of hygiene and veterinary care to maintain a healthy pet–owner relationship.",
+    "key_points": [
+      "Dogs boost social, emotional, and physical well‑being",
+      "They can detect medical conditions like seizures or cancers",
+      "Good hygiene and vet care help maintain health for both dog and owner"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Prioritize hygiene and routine vet visits to maximize benefits and minimize zoonotic risks.",
+    "topic_tags": ["companion health", "public health", "hygiene"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7327a1.htm",
+    "title": "Human Case of Leptospirosis During a Canine Disease Outbreak",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "An MMWR report documents a human leptospirosis infection linked to a canine outbreak, highlighting that vaccinating dogs can help prevent zoonotic transmission to people.",
+    "key_points": [
+      "Canine leptospirosis outbreak led to at least one human case",
+      "Dog vaccination is critical to control the outbreak",
+      "Zoonotic diseases can cross from dogs to humans"
+    ],
+    "species": ["dog"],
+    "age_group": [],
+    "severity_level": "urgent",
+    "recommendation": "Ensure dogs are vaccinated against leptospirosis and monitor for signs during outbreaks.",
+    "topic_tags": ["leptospirosis", "zoonosis", "vaccination"],
+    "date_created": "2024-07-11",
+    "license": "open"
+  },
+  {
+    "source": "https://www.cdc.gov/one-health/about/about-zoonotic-diseases.html",
+    "title": "About Zoonotic Diseases | One Health",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "CDC defines zoonotic diseases as infections transmitted between animals and people—caused by bacteria, viruses, parasites, or fungi—and notes animals may appear healthy while still carrying pathogens.",
+    "key_points": [
+      "Zoonoses include bacterial, viral, parasitic, and fungal diseases",
+      "Animals can carry diseases without appearing sick",
+      "Zoonotic infections range from mild to life‑threatening"
+    ],
+    "species": ["dog"],
+    "age_group": [],
+    "severity_level": "moderate",
+    "recommendation": "Practice good hygiene and regular vet care to reduce zoonotic disease risks.",
+    "topic_tags": ["zoonotic disease", "One Health", "public health"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.fda.gov/animal-veterinary/outbreaks-and-advisories/fda-investigation-potential-link-between-certain-diets-and-canine-dilated-cardiomyopathy",
+    "title": "FDA Investigation into Potential Link Between Certain Diets and Canine Dilated Cardiomyopathy",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "The FDA is investigating reports tying certain grain‑free diets high in legumes or potatoes to dilated cardiomyopathy (DCM) in dogs, especially in breeds not typically prone to the disease.",
+    "key_points": [
+      "Potential link between grain‑free, legume‑heavy diets and DCM",
+      "Cases found in breeds not genetically predisposed",
+      "Investigation ongoing with industry and vets"
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "urgent",
+    "recommendation": "Consult your veterinarian before changing diets, especially if feeding grain‑free or legume‑rich foods.",
+    "topic_tags": ["DCM", "diet", "grain-free"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/fdas-regulation-pet-food",
+    "title": "FDA’s Regulation of Pet Food",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "The FDA oversees pet food safety and labeling under the Federal Food, Drug, and Cosmetic Act, ensuring products are safe, properly manufactured, and labeled with required information in alignment with AAFCO standards.",
+    "key_points": [
+      "Pet food is regulated under the FD&C Act",
+      "Manufacturers must include product ID, net quantity, ingredient list, and origin",
+      "Standards often follow AAFCO guidelines"
+    ],
+    "species": ["dog"],
+    "age_group": [],
+    "severity_level": "mild",
+    "recommendation": "Choose pet foods that comply with FDA/AAFCO standards and read labels carefully.",
+    "topic_tags": ["pet food", "labeling", "FDA regulation"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/evr_dg_whats_in_a_balanced_dog_food",
+    "title": "Dog Nutrition: Guide to Dog Food Nutrients",
+    "persona_category": "Diet & Nutrition",
+    "summary": "PetMD outlines the essential nutrients—proteins, fats, carbohydrates, vitamins and minerals—for balanced dog food and specifies AAFCO minimum protein requirements: 22.5% for growth, 18% for adults, max 30%.",
+    "key_points": [
+      "Balanced dog food includes protein, fats, carbs, vitamins, minerals",
+      "AAFCO minimum protein: 22.5% for puppies, 18% for adults",
+      "Protein should not exceed ~30% DM"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "recommendation": "Select commercial foods meeting AAFCO standards and appropriate protein balance for life stage.",
+    "topic_tags": ["nutrition", "AAFCO", "protein"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/are-you-feeding-your-dog-right-amount",
+    "title": "Dog Feeding Chart: How Much Food Should I Feed My Dog?",
+    "persona_category": "Diet & Nutrition",
+    "summary": "PetMD provides feeding frequency and portion guidelines: puppies eat 3–5 times/day; adults usually twice/day. Overfeeding is common—59% of dogs are overweight, risking joint and heart issues.",
+    "key_points": [
+      "Puppies: 3–5 meals/day; adults: 2 meals/day",
+      "Breed and size affect feeding frequency",
+      "Overfeeding leads to obesity and related health risks"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "recommendation": "Use breed/age‑specific feeding charts and consult vet to avoid overfeeding.",
+    "topic_tags": ["feeding", "obesity", "portion control"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/how-many-calories-does-a-dog-need",
+    "title": "How Many Calories Does a Dog Need?",
+    "persona_category": "Diet & Nutrition",
+    "summary": "PetMD explains how to calculate a dog's caloric needs using RER (70×kg^0.75) and MER (RER×multiplier based on spay/neuter status and activity), providing example values and a ±25% range.",
+    "key_points": [
+      "RER = 70 × (kg)^0.75; MER = RER × activity multiplier",
+      "Multipliers range from 1 (weight loss) to 6 (heavy exercise)",
+      "Daily calorie range normally ±25%"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "recommendation": "Calculate calories based on weight/activity and adjust as needed; monitor weight regularly.",
+    "topic_tags": ["calories", "weight management", "nutrition"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/pet-food-ingredient-and-label-guide",
+    "title": "A Guide to Dog Food Ingredients and Reading Dog Food Labels",
+    "persona_category": "Diet & Nutrition",
+    "summary": "PetMD lays out how to read dog food labels: ingredients list starts with proteins, carbs, fats, followed by vitamins/minerals, probiotics, preservatives, helping owners make informed choices.",
+    "key_points": [
+      "Primary ingredients listed first: protein, carb, fat sources",
+      "Labels also list vitamins, minerals, probiotics, preservatives",
+      "Reading ingredient order helps assess nutritional quality"
+    ],
+    "species": ["dog"],
+    "age_group": [],
+    "severity_level": "mild",
+    "recommendation": "Check that main ingredients align with your dog’s needs and ensure labels list complete nutrient profiles.",
+    "topic_tags": ["ingredients", "label reading", "nutrition"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/evr_dg_the_benefits_of_proper_nutrition",
+    "title": "The Benefits of Proper Nutrition",
+    "persona_category": "Diet & Nutrition",
+    "summary": "PetMD explains that proper nutrition enhances a dog’s energy levels, immune system, coat quality, and overall lifespan, while reducing disease risk and improving quality of life.",
+    "key_points": [
+      "Good nutrition boosts energy and immunity",
+      "Supports healthy coat, skin, and digestive function",
+      "May lengthen lifespan and reduce disease risk"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Provide balanced, life-stage-appropriate nutrition and consult your vet for tailored diet advice.",
+    "topic_tags": ["proper nutrition", "immune support", "coat health"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/nutrition-general-feeding-guidelines-for-dogs",
+    "title": "General Feeding Guidelines for Dogs",
+    "persona_category": "Diet & Nutrition",
+    "summary": "VCA outlines guidelines including measuring food by calories or weight, feeding frequency by age, and adjusting diets based on condition, activity, or life stage, with treats making up no more than 10% of calories.",
+    "key_points": [
+      "Measure food based on calories or weight",
+      "Puppies eat more frequently; adults twice daily",
+      "Treats should be ≤10% of daily calories"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Follow feeding charts and monitor weight; adjust food intake as dogs age or activity changes.",
+    "topic_tags": ["feeding guidelines", "meal frequency", "portion control"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/how-to-choose-the-best-dog-food",
+    "title": "How to Choose the Best Dog Food",
+    "persona_category": "Diet & Nutrition",
+    "summary": "PetMD recommends selecting dog food based on life stage, AAFCO compliance, nutritional adequacy statements, quality ingredient sources, and vet guidance, while factoring in allergies or health conditions.",
+    "key_points": [
+      "Select based on life stage and disease status",
+      "Check for AAFCO nutritional adequacy label",
+      "Choose recognizable, high-quality protein and carb sources"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Review labels, ensure AAFCO compliance, and consult your veterinarian for personalized feeding advice.",
+    "topic_tags": ["dog food selection", "AAFCO label", "ingredient quality"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.fda.gov/animal-veterinary/animal-food-feeds/pet-food",
+    "title": "Pet Food Regulation Overview",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "The FDA provides an overview of pet food regulation under the Federal Food, Drug, and Cosmetic Act—covering manufacturing safety, ingredient standards, labeling, and recalls to ensure food safety.",
+    "key_points": [
+      "Regulated under the FD&C Act for safety and correctness",
+      "Ingredients and processing must meet standards",
+      "Agency monitors recalls and contamination risks"
+    ],
+    "species": ["dog"],
+    "age_group": [],
+    "severity_level": "mild",
+    "recommendation": "Use FDA-compliant pet foods and stay informed on recalls to protect your dog’s health.",
+    "topic_tags": ["pet food regulation", "FDA", "food safety"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/tips-safe-handling-pet-food-and-treats",
+    "title": "Tips for Safe Handling of Pet Food and Treats",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "This FDA article provides best practices for pet food handling: wash hands, avoid cross-contamination, store foods properly, inspect for spoilage, and follow treat expiration dates.",
+    "key_points": [
+      "Wash hands before and after contact",
+      "Use clean utensils; avoid raw meat cross-contamination",
+      "Store food in cool, dry places and check expiration dates"
+    ],
+    "species": ["dog"],
+    "age_group": [],
+    "severity_level": "mild",
+    "recommendation": "Adopt safe handling routines at home to prevent foodborne illness in pets.",
+    "topic_tags": ["food safety", "handling tips", "cross-contamination"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/proper-storage-pet-food-treats",
+    "title": "Proper Storage of Pet Food & Treats",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "FDA guidelines for storing pet food include keeping kibble sealed, refrigerating opened canned food within 5–7 days, keeping products off the floor, and avoiding heat exposure to preserve quality and safety.",
+    "key_points": [
+      "Store kibble in sealed original or food-grade containers",
+      "Refrigerate opened cans and use within 5–7 days",
+      "Keep food off the floor and away from heat sources"
+    ],
+    "species": ["dog"],
+    "age_group": [],
+    "severity_level": "mild",
+    "recommendation": "Follow storage guidelines to preserve freshness and reduce spoilage risk.",
+    "topic_tags": ["food storage", "spoilage prevention", "shelf life"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.fda.gov/consumers/consumer-updates/good-dog-bad-food-foods-people-are-bad-your-dog",
+    "title": "Good Dog, Bad Food: Foods People Are Bad for Your Dog",
+    "persona_category": "Diet & Nutrition",
+    "summary": "FDA outlines human foods that are toxic to dogs—like chocolate, grapes, onions, garlic, alcohol, caffeine, and xylitol—and explains symptoms of poisoning and what to do if ingestion occurs.",
+    "key_points": [
+      "Toxic foods include chocolate, grapes, onions, garlic, alcohol, caffeine, xylitol",
+      "Symptoms vary: vomiting, diarrhea, seizures, collapse",
+      "Seek vet care immediately if ingestion occurs"
+    ],
+    "species": ["dog"],
+    "age_group": [],
+    "severity_level": "urgent",
+    "recommendation": "Avoid offering toxic human foods and contact a vet or poison control if ingestion happens.",
+    "topic_tags": ["food toxicity", "human foods", "poisoning"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/nutrition/dog-nutrition-what-you-need-to-know/",
+    "title": "Dog Nutrition: What You Need to Know",
+    "persona_category": "Diet & Nutrition",
+    "summary": "The AKC details key nutritional components—proteins, fats, carbs, fiber, vitamins, and minerals—explaining their roles and emphasizing adjusting nutrition based on life stage, activity, or health status.",
+    "key_points": [
+      "Essential nutrients: proteins, fats, carbs, fiber, vitamins, minerals",
+      "Diet should align with life stage, activity, and health needs",
+      "Consult vet and review labels for nutrition adequacy"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Balance key nutrients and tailor feeding strategies in consultation with your vet.",
+    "topic_tags": ["nutrient balance", "AKC nutrition", "diet planning"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vetnutrition.tufts.edu/",
+    "title": "Tufts Dog Nutrition Resource Center",
+    "persona_category": "Diet & Nutrition",
+    "summary": "Tufts’ Vet Nutrition site offers evidence-based articles and resources to guide dog owners on proper feeding, including special needs, weight loss, and commercial vs homemade diets.",
+    "key_points": [
+      "Evidence-based guidance on feeding and special dietary needs",
+      "Resources for weight management and life-stage diets",
+      "Covers commercial and homemade diet options"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Use this trusted resource for diet planning and consult your vet before diet changes.",
+    "topic_tags": ["vet nutrition", "homemade diets", "weight loss"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.merckvetmanual.com/management-and-nutrition/nutrition-small-animals/dog-and-cat-foods",
+    "title": "Dog and Cat Foods",
+    "persona_category": "Diet & Nutrition",
+    "summary": "This article outlines regulatory requirements and nutritional considerations for commercial dog and cat foods, including guaranteed analysis, statement of nutritional adequacy, feeding guidelines, and types of pet food (dry, canned, semimoist). It emphasizes the importance of life-stage-specific complete and balanced diets.",
+    "key_points": [
+      "Pet food labels must state nutritional adequacy and life-stage suitability.",
+      "Three main types: dry (~90% dry matter), canned (68–78% water), and semimoist (25–40% water) foods.",
+      "Therapeutic diets help manage allergies through strict ingredient control.",
+      "Calories must be expressed as kcal/kg and kcal per household measure.",
+      "Terms like 'light' or 'reduced calories' have defined criteria on calorie reduction."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Use appropriately formulated complete and balanced diets; monitor body condition and adjust feeding based on life stage.",
+    "topic_tags": ["nutrition", "pet food", "feeding guidelines", "calorie labeling"],
+    "date_created": "2025-06-01",
+    "license": "open"
+  },
+  {
+    "source": "https://www.merckvetmanual.com/special-pet-topics/health-and-the-human-animal-bond/health-benefits-of-pet-ownership",
+    "title": "Health Benefits of Pet Ownership",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "The article reviews research showing that pet ownership and interaction can reduce depression, loneliness, blood pressure, and cholesterol, while increasing resilience and psychological well‑being.",
+    "key_points": [
+      "Pets protect against depression and loneliness during stressful times.",
+      "Interaction with animals increases owner resilience.",
+      "Pet owners may have better cardiovascular health (lower BP, cholesterol)."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Encourage pet companionship for mental health benefits; not a substitute for medical treatment.",
+    "topic_tags": ["mental health", "human-animal bond", "well-being"],
+    "date_created": "2021-12-01",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/obesity-in-dogs",
+    "title": "Obesity in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Obesity in dogs—defined as over 20% above ideal body weight—is highly prevalent (~25–59% of dogs) and is the most common preventable disease in North America.",
+    "key_points": [
+      "Overweight: 10–20% above ideal weight; obese: >20%.",
+      "25–30% of dogs are obese; 59% overweight per surveys.",
+      "Obesity contributes to joint disease, diabetes, and decreased lifespan."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "recommendation": "Consult vet to assess body condition, set weight loss goals, adjust diet and exercise.",
+    "topic_tags": ["obesity", "weight management", "body condition"],
+    "date_created": "2025-02-01",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/indoor-dogs-and-infectious-disease",
+    "title": "Indoor Dogs and Infectious Disease",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Although indoor dogs are safer overall, they still require vaccinations because some infectious diseases can still be transmitted indoors.",
+    "key_points": [
+      "Indoor lifestyle reduces but does not eliminate risk of infectious disease.",
+      "Following vaccination guidelines (e.g., AAHA) remains important."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "puppy"],
+    "severity_level": "mild",
+    "recommendation": "Continue standard vaccine protocols even for strictly indoor dogs.",
+    "topic_tags": ["vaccination", "infectious disease", "indoor dogs"],
+    "date_created": "2024-11-01",
+    "license": "open"
+  },
+  {
+    "source": "https://www.fda.gov/animal-veterinary/cvm-updates/cat-and-dog-food-manufacturers-required-consider-h5n1-food-safety-plans",
+    "title": "Cat and Dog Food Manufacturers Required to Consider H5N1 Food Safety Plans",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "The FDA now requires pet food manufacturers using uncooked/unpasteurized poultry or cattle products to include H5N1 avian influenza as a hazard in their safety plans under the PCAF rule, due to evidence of transmission to cats and dogs.",
+    "key_points": [
+      "H5N1 can transmit to cats and dogs via uncooked poultry/cattle materials.",
+      "FDA mandates reanalysis of preventive controls by manufacturers.",
+      "Protective processing (e.g. cooking, pasteurization) is essential."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "puppy"],
+    "severity_level": "urgent",
+    "recommendation": "Avoid raw or unpasteurized animal products in pet food; choose processed alternatives.",
+    "topic_tags": ["food safety", "H5N1", "pet food"],
+    "date_created": "2025-01-17",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-to-groom-a-double-coated-dog/",
+    "title": "How to Groom a Double-Coated Dog",
+    "persona_category": "Grooming & Product Care",
+    "summary": "This guide explains that double‑coated breeds need brushing weekly (or more in shedding seasons), trimming of excess fur around extremities, and should not be shaved to maintain insulation.",
+    "key_points": [
+      "Brush medium double coats weekly to prevent mats and remove loose fur.",
+      "Trim excess hair on feet, hocks, and pasterns per breed standard.",
+      "Shaving double coats is discouraged as it disrupts insulating properties."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "mild",
+    "recommendation": "Use appropriate brushes and trimming tools regularly; avoid full shaving.",
+    "topic_tags": ["grooming", "double coat", "brushing"],
+    "date_created": "2024-06-01",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/10-grooming-tips-dog-show-experts/",
+    "title": "10 Grooming Tips From Show Dog Experts",
+    "persona_category": "Grooming & Product Care",
+    "summary": "AKC show-dog professionals share ten essential grooming tips, including how exercise and diet affect appearance, coat-specific care, grooming-training, dental hygiene, and handling techniques.",
+    "key_points": [
+      "Exercise improves coat condition and overall appearance.",
+      "Choose dog food based on coat and skin needs; consult a vet.",
+      "Train dogs to enjoy grooming by making it a positive experience.",
+      "Use coat-appropriate shampoos and conditioners after brushing.",
+      "Maintain dental hygiene early using finger brushes/toothpaste."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "mild",
+    "recommendation": "Incorporate regular brushing, dental care, and positive grooming training to keep dogs healthy and show-ready.",
+    "topic_tags": ["brushing", "coat care", "dental hygiene", "grooming training"],
+    "date_created": "2024-04-03",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-to-trim-dogs-nails-safely/",
+    "title": "How to Trim Dogs’ Nails Safely",
+    "persona_category": "Grooming & Product Care",
+    "summary": "Dr. Jerry Klein and AKC experts outline safe paw handling, clipping techniques, and grinding advice, emphasizing tools, avoiding the quick, and using styptic powder if needed.",
+    "key_points": [
+      "Use nail clippers or grinders designed for dogs.",
+      "Firmly extend the nail before clipping just the tip, avoiding the quick.",
+      "Styptic powder should be on hand for bleeding emergencies.",
+      "For grinders: smooth edges slowly and keep hair clear from the bit."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "mild",
+    "recommendation": "Have a veterinarian demonstrate first-time nail trimming; maintain weekly trims and practice safe techniques.",
+    "topic_tags": ["nail trimming", "paw care", "styptic powder"],
+    "date_created": "2025-05-01",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-to-overcome-the-4-biggest-dog-grooming-challenges/",
+    "title": "How to Overcome the 4 Biggest Dog Grooming Challenges",
+    "persona_category": "Grooming & Product Care",
+    "summary": "AKC experts share strategies for managing shedding, mats, and coat care using appropriate tools like grooming gloves, undercoat rakes, slicker brushes, and mat picks.",
+    "key_points": [
+      "Use dog-specific grooming gloves or wipes to remove surface hair daily.",
+      "Brush weekly for long or dense coats using suitable tools.",
+      "Remove mats by working from edges inward with a mat pick.",
+      "Choose rubber brushes for short coats and combs for longer ones."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "mild",
+    "recommendation": "Establish a regular grooming routine using coat-appropriate tools to manage shedding and prevent mats.",
+    "topic_tags": ["shedding", "coat maintenance", "mat removal", "brushing tools"],
+    "date_created": "2024-11-01",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/spring-dog-grooming-tips/",
+    "title": "Spring Grooming Tips to Get Your Dog Ready for Warmer Weather",
+    "persona_category": "Grooming & Product Care",
+    "summary": "As spring arrives, AKC advises brushing out winter coats, using grinders to manage nails, and avoiding shaving double-coated breeds to protect their insulation and skin.",
+    "key_points": [
+      "Remove dead winter undercoat through brushing.",
+      "Trim nails using grinders or clippers before summer.",
+      "Don’t shave double-coated breeds—leave at least 1 inch of coat.",
+      "Use styptic powder for quick-trim bleeding."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "mild",
+    "recommendation": "Increase grooming frequency, maintain nails, and preserve coat length in spring for skin protection.",
+    "topic_tags": ["seasonal grooming", "nail care", "coat protection", "brushing"],
+    "date_created": "2023-03-01",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-to-groom-a-dog/",
+    "title": "How to Groom a Dog at Home",
+    "persona_category": "Grooming & Product Care",
+    "summary": "A detailed guide on tools and techniques for home dog grooming, including brushing, bathing, wiping, nail and dental care, with safety precautions.",
+    "key_points": [
+      "Use a damp towel to remove outdoor debris.",
+      "Check and trim hair between paw pads with blunt scissors.",
+      "Use dog‑formulated shampoos and conditioners only.",
+      "Monitor pads for dryness, injury, and excessive hair.",
+      "Get proper grooming tools: brushes, combs, clippers, styptic powder, blow dryer.",
+      "Be cautious bathing outdoors in cold weather."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Maintain a regular grooming routine at home and consult a vet if you notice injuries, sores, or skin issues.",
+    "topic_tags": ["grooming", "bathing", "nail care", "dental care"],
+    "date_created": "2024-06-?",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/skin-and-coat-problems-in-dogs",
+    "title": "Coat and Skin Appearance in the Healthy Dog",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Explains how coat and skin appearance reflect underlying health issues, including disease, nutrition, parasites, and stress, and emphasizes treatment of root causes.",
+    "key_points": [
+      "Illness, stress, or metabolic disorders affect coat shine and texture.",
+      "Hormonal imbalances, parasites, and digestive issues can dull the coat.",
+      "Allergies and seborrhea cause itching, oil changes, patchy shedding.",
+      "Treating underlying illnesses often improves coat condition."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "recommendation": "Address any persistent coat or skin issues with your veterinarian to diagnose underlying conditions.",
+    "topic_tags": ["skin problems", "coat health", "parasites", "allergies"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.humanesociety.org/resources/grooming-tips-dogs",
+    "title": "How to Groom Your Dog at Home",
+    "persona_category": "Grooming & Product Care",
+    "summary": "A practical step‑by‑step guide for home grooming: brush, bathe, and safely trim sensitive areas using clippers or shears.",
+    "key_points": [
+      "Brush, bathe, and dry thoroughly.",
+      "Use blunt‑ended shears or clippers with guard combs around eyes, private areas, and paw pads.",
+      "Use a number 10 blade for delicate trimming; number 4 for overall trim."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "mild",
+    "recommendation": "Groom regularly at home and consult a professional if unsure about trimming techniques.",
+    "topic_tags": ["home grooming", "clippers", "shears"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/what-is-creative-grooming/",
+    "title": "Welcome to the Technicolor World of Creative Dog Grooming",
+    "persona_category": "Grooming & Product Care",
+    "summary": "Introduces the concept of creative grooming—artistic styling and coloring of dogs—and links to relevant resources and show‑dog tips.",
+    "key_points": [
+      "Creative grooming involves artistic styling and coloring.",
+      "Links to AKC resources like creative grooming explanations and show‑dog tips."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "mild",
+    "recommendation": "If interested in creative grooming, review AKC resources and consider professional stylists familiar with salon safety.",
+    "topic_tags": ["creative grooming", "stylish grooming"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/10-grooming-tips-dog-show-experts/",
+    "title": "10 Grooming Secrets From Show Dog Experts",
+    "persona_category": "Grooming & Product Care",
+    "summary": "Top show‑dog expert tips: from boosting grooming enjoyment, diet and coat care, to dental hygiene routines.",
+    "key_points": [
+      "Give dogs exercise to improve condition and grooming receptiveness.",
+      "Research dog food to avoid skin‑aggravating ingredients.",
+      "Train dogs to enjoy grooming experiences.",
+      "Understand coat type to choose proper shampoos and conditioners.",
+      "Prioritize dental hygiene from early age."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "recommendation": "Incorporate expert tips into grooming: adjust diet, coat‑appropriate products, and early training for grooming habits.",
+    "topic_tags": ["grooming routine", "diet", "dental care"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-to-trim-dogs-nails-safely/",
+    "title": "Trim Your Dog's Nails Safely: Tips, Tricks, and Grooming Techniques",
+    "persona_category": "Grooming & Product Care",
+    "summary": "Encourages patience and positive reinforcement to acclimate dogs to nail trimming, using safe clippers or grinders and frequent breaks.",
+    "key_points": [
+      "Be patient and positive; use praise and treats.",
+      "Use dog‑friendly clippers or nail grinders.",
+      "Gradually build tolerance over weeks."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "recommendation": "Start slow with handling feet and trimming technique; consult a groomer or vet if your dog resists strongly.",
+    "topic_tags": ["nail trimming", "positive reinforcement", "clippers"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-to-overcome-the-4-biggest-dog-grooming-challenges/",
+    "title": "How to Overcome the 4 Biggest Dog Grooming Challenges",
+    "persona_category": "Grooming & Product Care",
+    "summary": "Addresses common grooming challenges like shedding, matting, and provides solutions such as grooming gloves and targeted brush‑out.",
+    "key_points": [
+      "Use damp cloths or grooming gloves to remove loose topcoat.",
+      "Manage mats by careful brushing or cutting.",
+      "Specific tools and techniques targeted to each grooming problem."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "mild",
+    "recommendation": "Use appropriate tools daily for shedding and mats; seek professional help for severe matting.",
+    "topic_tags": ["shedding", "mats", "grooming tools"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/spring-dog-grooming-tips/",
+    "title": "Spring Grooming Tips to Get Your Dog Ready for Warmer Weather",
+    "persona_category": "Grooming & Product Care",
+    "summary": "Tailored spring grooming advice: regular brushing to remove winter coat, circulation benefits, and tools for shedding control.",
+    "key_points": [
+      "Brush regularly to remove dead winter coat and promote circulation.",
+      "Use shedding‑control tools and maintaining coat health."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "mild",
+    "recommendation": "Boost grooming frequency in spring to manage shedding and coat health; consult groomer if heavy shedding persists.",
+    "topic_tags": ["seasonal grooming", "shedding", "brushing"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/allergy-general-in-dogs",
+    "title": "Allergies in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Explains that itchy skin and digestive upset are common allergy symptoms in dogs, typically appearing after six months of age.",
+    "key_points": [
+      "Itchy skin (localized or generalized) is the most common allergy symptom.",
+      "Allergies may also cause vomiting or diarrhea.",
+      "Most dog allergies appear after 6 months, usually over 1–2 years of age."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "moderate",
+    "recommendation": "If your dog shows persistent itchiness or GI issues, consult your veterinarian for allergy testing and management.",
+    "topic_tags": ["allergies", "itchy skin", "vomiting", "diarrhea"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/obesity-in-dogs",
+    "title": "Obesity in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Defines canine obesity, outlines its prevalence and health impacts, emphasizing that dogs >20% above ideal body weight are obese, which leads to inflammation and joint damage.",
+    "key_points": [
+      "Dogs are overweight at 10–20% above ideal weight; obese at >20%.",
+      "About 59% of dogs in North America are overweight or obese :contentReference[oaicite:1]{index=1}.",
+      "Excess fat contributes to inflammation and osteoarthritis via hormones like leptin :contentReference[oaicite:2]{index=2}."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "recommendation": "Consult your veterinarian to assess body condition and develop a weight‑loss plan, since obesity contributes to inflammation and joint disease.",
+    "topic_tags": ["obesity", "weight management", "joint health"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/gastroenteritis-in-dogs",
+    "title": "Gastroenteritis in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Gastroenteritis in dogs is inflammation of the stomach and intestines caused by infection, dietary changes, or toxins, presenting with abdominal pain, vomiting, diarrhea, and sometimes fever.",
+    "key_points": [
+      "Inflammation of GI tract due to bacteria, virus, parasites, meds or new foods :contentReference[oaicite:3]{index=3}.",
+      "Common signs include abdominal pain, diarrhea, vomiting, potentially fever or lethargy :contentReference[oaicite:4]{index=4}."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "puppy"],
+    "severity_level": "moderate",
+    "recommendation": "Monitor hydration and symptoms; consult a vet if signs are severe, persistent, or include blood, fever, or lethargy.",
+    "topic_tags": ["gastroenteritis", "vomiting", "diarrhea", "GI inflammation"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/lymphocytic-plasmacytic-gastroenteritis-in-dogs",
+    "title": "Lymphocytic Plasmacytic Gastroenteritis in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "A form of inflammatory bowel disease in dogs involving immune-cell infiltration of the GI lining, causing chronic intermittent vomiting and diarrhea, diagnosed via biopsy.",
+    "key_points": [
+      "Immune cells infiltrate stomach/intestine lining due to an abnormal immune response :contentReference[oaicite:5]{index=5}.",
+      "Symptoms include intermittent diarrhea, vomiting, weight loss, blood in stool or vomit, abdominal pain; may cause protein loss :contentReference[oaicite:6]{index=6}.",
+      "Diagnosis requires biopsy via endoscopy or surgery; diet trials may help manage symptoms :contentReference[oaicite:7]{index=7}."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "middle-aged"],
+    "severity_level": "urgent",
+    "recommendation": "If signs persist, seek veterinary evaluation; diagnosis by biopsy and management via diet or immunosuppressives.",
+    "topic_tags": ["inflammatory bowel disease", "vomiting", "diarrhea", "biopsy"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/overweight-obesity-and-pain-in-dogs-overview",
+    "title": "Overweight, Obesity, and Pain in Dogs: Overview",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Explains how obesity contributes to inflammatory pain in dogs via fat hormone secretion (like leptin), and accelerated joint damage even before clinical signs emerge.",
+    "key_points": [
+      "Fat tissue actively secretes inflammatory hormones like leptin, contributing to osteoarthritis :contentReference[oaicite:8]{index=8}.",
+      "Obesity speeds joint damage and creates a vicious cycle of pain and inflammation :contentReference[oaicite:9]{index=9}."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "recommendation": "Work with your vet on weight control strategies to reduce inflammation and protect joint health.",
+    "topic_tags": ["obesity", "inflammation", "joint pain"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/overweight-obesity-and-pain-in-dogs-prevention-and-action-plans",
+    "title": "Overweight, Obesity, and Pain in Dogs: Prevention and Action Plans",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Provides practical strategies to prevent and reverse obesity in dogs: appropriate diet, increased activity, and regular monitoring to restore healthy body weight.",
+    "key_points": [
+      "Obesity preventable and reversible; can restore normal life expectancy :contentReference[oaicite:10]{index=10}.",
+      "Caused by high-calorie diets, free‑choice feeding, and low activity :contentReference[oaicite:11]{index=11}.",
+      "Strategies include veterinary diet selection, tailored feeding by life stage, and increasing daily exercise :contentReference[oaicite:12]{index=12}."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "moderate",
+    "recommendation": "Consult vet to choose appropriate food and establish an exercise plan to safely reduce weight.",
+    "topic_tags": ["weight loss plan", "diet", "exercise"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/tips-for-successful-weight-loss-in-dogs-and-cats",
+    "title": "Tips for Successful Weight Loss in Dogs and Cats",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Outlines a recommended weight-loss rate (~0.5–2% body weight/week), explains long-term timelines, and discusses the importance of vet‑prescribed therapeutic diets.",
+    "key_points": [
+      "Safe weight loss rate is 0.5–2% of body weight per week :contentReference[oaicite:13]{index=13}.",
+      "Weight loss in dogs may take many months (e.g., 10 lb lost at 0.2 lb/week takes ~1 year) :contentReference[oaicite:14]{index=14}.",
+      "Veterinary therapeutic diets are preferred for nutrient balance during calorie restriction :contentReference[oaicite:15]{index=15}."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Follow a vet-guided weight-loss program using therapeutic food and regular monitoring.",
+    "topic_tags": ["weight loss", "therapeutic diet", "rate of loss"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/proper-storage-pet-food-treats",
+    "title": "Proper Storage of Pet Food & Treats",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Provides FDA-backed guidance for safe storage of pet foods and treats to prevent spoilage and bacterial contamination.",
+    "key_points": [
+      "Store dry food unopened in cool (<80 °F), dry places; refrigerate or discard opened cans promptly (≤40 °F) :contentReference[oaicite:16]{index=16}.",
+      "Wash and dry bowls, scoops, and storage containers between uses :contentReference[oaicite:17]{index=17}.",
+      "Keep treats secure to avoid overeating; spoiled packaging or odors are warning signs to stop use :contentReference[oaicite:18]{index=18}."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "mild",
+    "recommendation": "Adopt these storage habits and report any pet illness or packaging defect to your vet and the FDA.",
+    "topic_tags": ["food safety", "storage", "prevent contamination"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/tips-safe-handling-pet-food-and-treats",
+    "title": "Tips for Safe Handling of Pet Food and Treats",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "FDA guidance to minimize foodborne illness risk from pet food through hygiene, utensil use, and safe storage/disposal practices.",
+    "key_points": [
+      "Wash hands before and after handling; use dedicated utensils and bowls and wash those after each use :contentReference[oaicite:19]{index=19}.",
+      "Discard spoiled food safely in tied bags; do not reuse pet bowls as scoops :contentReference[oaicite:20]{index=20}.",
+      "Store opened and unused pet food in sealed containers or bags (<80 °F); refrigerate opened cans (<40 °F) :contentReference[oaicite:21]{index=21}.",
+      "Raw diets carry higher risk; avoid or handle with extra care :contentReference[oaicite:22]{index=22}."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "mild",
+    "recommendation": "Follow FDA handling steps to protect pets and people; consult vet if pet illness follows food handling breaches.",
+    "topic_tags": ["foodborne illness", "raw diet", "hygiene"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.fda.gov/animal-veterinary/animal-health-literacy/pet-food-and-treats",
+    "title": "Pet Food and Treats",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "FDA portal links to multiple resources about pet food safety, contaminants, raw-food risks, and proper handling practices.",
+    "key_points": [
+      "Includes resources on storage, handling, contaminants, raw diets, and regulation :contentReference[oaicite:23]{index=23}.",
+      "Alerts on hazards like aflatoxin, Listeria, Salmonella in pet food :contentReference[oaicite:24]{index=24}."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "mild",
+    "recommendation": "Use linked FDA guides on safety; report issues with pet food or treats to FDA and consult your vet.",
+    "topic_tags": ["regulation", "contaminants", "safety resources"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/dog-behavior-and-training-play-and-exercise",
+    "title": "Dog Behavior and Training - Play and Exercise",
+    "persona_category": "Behavior & Training",
+    "summary": "Highlights how play and exercise are essential for a dog’s physical and mental health, social skills, and behavior control, with tips for effective and safe play.",
+    "key_points": [
+      "Play builds motor skills, bite inhibition, and social behavior.",
+      "Exercise helps prevent obesity and boredom-related behaviors.",
+      "Supervised play helps prevent injuries and behavior problems.",
+      "Play is not dominance behavior; it's healthy interaction."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "recommendation": "Include daily supervised play and structured exercise as part of routine training and social development.",
+    "topic_tags": ["play", "exercise", "behavior", "socialization"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.merckvetmanual.com/behavior/normal-social-behavior-and-behavioral-problems-of-domestic-animals/behavioral-problems-of-dogs",
+    "title": "Behavioral Problems of Dogs",
+    "persona_category": "Behavior & Training",
+    "summary": "Outlines the most common dog behavior problems including fear, aggression, and separation anxiety, with emphasis on identifying underlying causes and need for early intervention.",
+    "key_points": [
+      "Common issues: separation anxiety, phobias, compulsive disorders, and aggression.",
+      "Diagnosis must differentiate behavioral from medical causes.",
+      "Early intervention and training are crucial to resolution."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "moderate",
+    "recommendation": "Consult a vet or behaviorist for persistent or severe behavioral issues.",
+    "topic_tags": ["behavioral problems", "separation anxiety", "aggression", "phobias"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/training/",
+    "title": "Dog Training Tips & Tools",
+    "persona_category": "Behavior & Training",
+    "summary": "Provides a collection of training resources for housebreaking, basic obedience, crate training, and socialization from puppyhood onward.",
+    "key_points": [
+      "Covers housebreaking, leash training, and basic commands.",
+      "Includes tips on crate training and managing unwanted behaviors.",
+      "Emphasizes consistency and positive reinforcement."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "recommendation": "Use AKC’s resources to establish consistent training routines; seek help for complex behavior problems.",
+    "topic_tags": ["training", "obedience", "crate training", "housebreaking"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.rspca.org.uk/adviceandwelfare/pets/dogs/environment/newhome",
+    "title": "Helping Your Dog Settle into a New Home",
+    "persona_category": "Behavior & Training",
+    "summary": "Offers advice on helping dogs adapt to new environments, including routine creation, gradual socialization, and addressing early anxiety.",
+    "key_points": [
+      "Create a calm, predictable environment.",
+      "Introduce routine and consistent cues.",
+      "Avoid overwhelming the dog with stimuli or guests early on."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "recommendation": "Be patient and create structured routines when introducing a dog to a new home.",
+    "topic_tags": ["transition", "adaptation", "routine", "anxiety"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.aspca.org/pet-care/dog-care/common-dog-behavior-issues",
+    "title": "Common Dog Behavior Issues",
+    "persona_category": "Behavior & Training",
+    "summary": "Details common behavior problems in dogs like barking, chewing, digging, and jumping, with links to training strategies for resolution.",
+    "key_points": [
+      "Behavioral issues include barking, chewing, digging, and jumping up.",
+      "Underlying causes include boredom, anxiety, or lack of training.",
+      "Training and enrichment can reduce problem behaviors."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "recommendation": "Identify and address root causes of behavior problems early using positive training techniques.",
+    "topic_tags": ["chewing", "barking", "digging", "jumping"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.humanesociety.org/resources/how-socialize-your-dog",
+    "title": "How to Socialize Your Dog",
+    "persona_category": "Behavior & Training",
+    "summary": "Guides dog owners through the process of safely socializing their dogs using positive reinforcement, gradual exposure, and consistency.",
+    "key_points": [
+      "Socialization should begin early and progress slowly.",
+      "Use positive reinforcement to build confidence.",
+      "Avoid overwhelming or traumatic encounters."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "recommendation": "Start socializing dogs early using consistent, rewarding experiences.",
+    "topic_tags": ["socialization", "puppy training", "confidence building"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-to-groom-a-double-coated-dog/",
+    "title": "How to Groom a Double-Coated Dog",
+    "persona_category": "Grooming & Product Care",
+    "summary": "Explains proper grooming techniques for double-coated breeds, emphasizing undercoat removal, tool selection, and why not to shave.",
+    "key_points": [
+      "Double-coated dogs require undercoat removal via brushing.",
+      "Do not shave double-coated breeds—coats protect against heat/cold.",
+      "Tools like rake brushes and de-shedding tools help manage coat."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "mild",
+    "recommendation": "Brush regularly and avoid shaving to preserve natural coat protection; consult groomers for heavy shedding.",
+    "topic_tags": ["double coat", "brushing", "undercoat", "shaving"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/signs-your-dog-is-stressed-and-how-to-relieve-it",
+    "title": "Signs Your Dog is Stressed and How to Relieve It",
+    "persona_category": "Behavior & Training",
+    "summary": "Covers signs of stress in dogs (like lip licking, pacing, yawning), causes (e.g. change, noise), and offers tips for calming via routine, space, and positive reinforcement.",
+    "key_points": [
+      "Stress signs: lip licking, yawning, pacing, hiding.",
+      "Causes include routine disruption, travel, or new environments.",
+      "Offer safe spaces and reward calm behavior."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "mild",
+    "recommendation": "Monitor for stress signs and use consistent, supportive environments to calm your dog.",
+    "topic_tags": ["stress", "anxiety", "behavior signs", "calming"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/allergy-general-in-dogs",
+    "title": "Allergies in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Allergies in dogs cause symptoms like itching, ear infections, or GI issues, commonly diagnosed between ages 1–2, requiring management not cure.",
+    "key_points": [
+      "Signs: itching, ear infections, sneezing, vomiting or diarrhea.",
+      "Most allergies emerge between 1–2 years old.",
+      "Diagnosis may include diet trials, blood/skin tests."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "moderate",
+    "recommendation": "If signs are recurrent, consult a vet for allergy testing and symptom management.",
+    "topic_tags": ["allergies", "itching", "GI issues", "testing"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/vestibular-disease-in-dogs",
+    "title": "Vestibular Disease in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Vestibular disease causes sudden loss of balance, head tilt, and disorientation, often in older dogs, with symptoms resembling a stroke but usually resolving with time.",
+    "key_points": [
+      "Causes include inner ear issues or idiopathic forms in older dogs.",
+      "Symptoms: head tilt, unsteady gait, nausea, falling over.",
+      "Recovery typically begins within 72 hours with supportive care."
+    ],
+    "species": ["dog"],
+    "age_group": ["senior"],
+    "severity_level": "urgent",
+    "recommendation": "Seek immediate veterinary evaluation to confirm diagnosis and rule out stroke or serious causes.",
+    "topic_tags": ["vestibular", "balance", "head tilt", "senior dogs"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/pet-owners/petcare/money-tips-caring-pet-owners",
+    "title": "Money Tips for Caring Pet Owners",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "AVMA emphasizes that regular preventive veterinary care—wellness exams, vaccines, parasite checks—not only keeps pets healthier but also saves owners money by detecting issues early and avoiding expensive treatments later.",
+    "key_points": [
+      "Investing in preventive exams and parasite control can save hundreds or thousands over time :contentReference[oaicite:1]{index=1}.",
+      "Don’t sacrifice care quality just to save money—compare similar service packages.",
+      "Vaccinations and preventive meds help avoid costly illnesses."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Schedule routine wellness visits and follow preventive care guidelines; discuss affordable care packages with your veterinarian.",
+    "topic_tags": ["preventive care", "vaccination", "parasite control", "budgeting"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/pet-owners/petcare/responsible-pet-ownership",
+    "title": "Responsible Pet Ownership",
+    "persona_category": "Behavior & Training",
+    "summary": "AVMA outlines responsible pet ownership: choosing the right pet, investing time and resources, providing training, exercise, vet care, and socialization for a healthy, well-adjusted pet.",
+    "key_points": [
+      "Choose a pet suited to your lifestyle and household :contentReference[oaicite:2]{index=2}.",
+      "Provide appropriate exercise, mental stimulation, and training.",
+      "Keep up with vet visits, nutrition, parasite control, and dental care."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Consider lifestyle and commitment before adopting; establish a care routine involving vet, training, and exercise.",
+    "topic_tags": ["responsible ownership", "training", "exercise", "vet care"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.avma.org/resources/pet-owners/yourvet/financial-assistance-veterinary-care-costs",
+    "title": "Financial Assistance for Veterinary Care Costs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "AVMA highlights options to manage veterinary expenses—preventive care, emergency funds, insurance, payment plans, nonprofit clinics, and assistance programs.",
+    "key_points": [
+      "Wellness exams save money by preventing costly illness :contentReference[oaicite:3]{index=3}.",
+      "Consider pet insurance or emergency savings funds.",
+      "Low-cost clinics, grants, and payment options may help owners in need."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "mild",
+    "recommendation": "Discuss budget-friendly care options and assistance programs with your vet; consider insurance or setting aside funds.",
+    "topic_tags": ["financial assistance", "insurance", "low-cost clinics", "emergency fund"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.avma.org/blog/avma-shares-insights-rising-veterinary-costs",
+    "title": "AVMA Shares Insights into Rising Veterinary Costs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "AVMA reports increasing cost sensitivity among pet owners and encourages vet-client communication, care alternatives, and awareness of assistance options like REACH grants.",
+    "key_points": [
+      "Over half of owners skip vet visits due to cost; clinics saw a 4.6% dip in visits :contentReference[oaicite:4]{index=4}.",
+      "Owners value affordable alternatives and payment plans.",
+      "AVMF REACH program supports pet owners needing financial aid :contentReference[oaicite:5]{index=5}."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "mild",
+    "recommendation": "Talk with your vet about lower‑cost care options and financial support programs; consider REACH or pet insurance.",
+    "topic_tags": ["cost sensitivity", "financial aid", "REACH program", "payment plans"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.cdc.gov/parasites/toxocariasis/gen_info/faqs.html",
+    "title": "Toxocariasis FAQs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "CDC explains toxocariasis—a zoonotic roundworm infection from dog/cat feces—covering symptoms, transmission routes, prevention, and treatment.",
+    "key_points": [
+      "Most human infections are asymptomatic; symptoms may include fever, cough, abdominal pain, or eye issues :contentReference[oaicite:6]{index=6}.",
+      "Transmitted via ingestion of Toxocara eggs from contaminated soil or feces.",
+      "Preventive measures include deworming pets, promptly removing feces, and hand hygiene."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "moderate",
+    "recommendation": "Have pets regularly dewormed, clean up waste immediately, and use hygiene to protect family health.",
+    "topic_tags": ["zoonosis", "roundworm", "parasite prevention", "handwashing"],
+    "date_created": "2024-09-10",
+    "license": "open"
+  },
+  {
+    "source": "https://www.cdc.gov/parasites/zoonotichookworm/index.html",
+    "title": "Zoonotic Hookworm Infection",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "CDC discusses zoonotic hookworm species from dogs (e.g., Ancylostoma) that can infect humans, causing skin conditions or more serious disease, and prevention strategies.",
+    "key_points": [
+      "Dogs can transmit species like Ancylostoma to people, causing skin irritation (cutaneous larva migrans).",
+      "Life cycle involves eggs in soil, larvae penetration through skin.",
+      "Prevention: deworm dogs, wear shoes outdoors, pick up waste, avoid barefoot contact with soil."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "moderate",
+    "recommendation": "Ensure regular deworming, clean environments, and protect people by using footwear and hygiene outdoors.",
+    "topic_tags": ["hookworm", "zoonosis", "cutan larva migrans", "deworming"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.cdc.gov/healthy-pets/about/dogs.html",
+    "title": "Healthy Pets – Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "CDC guidance on dog-associated zoonoses, preventive health care, vaccination, parasite control, and safe pet handling to minimize disease spread.",
+    "key_points": [
+      "Dogs can transmit various zoonoses; veterinary care and parasite prevention reduce risks.",
+      "Vaccinations protect both dog and human health.",
+      "Promotes safe handling, waste cleanup, and hygiene to prevent disease."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "mild",
+    "recommendation": "Keep dogs healthy with vet visits, vaccines, parasite control, and good hygiene to protect both pet and people.",
+    "topic_tags": ["zoonosis prevention", "vaccination", "hygiene", "parasite control"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/why-preventive-health-care-is-important-for-dogs",
+    "title": "Why Preventive Health Care is Important for Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "VCA stresses the importance of preventive care—vaccines, parasite screening, dental checks, weight monitoring—to detect and prevent disease early.",
+    "key_points": [
+      "Prevention is cheaper than treatment; routine exams catch health issues early.",
+      "Regular dental, parasite, weight assessments, and lifestyle monitoring are essential."
+    ],
+    "species": ["dog"],
+    "age_group": ["all"],
+    "severity_level": "mild",
+    "recommendation": "Establish annual wellness visits with appropriate screenings to promote long-term health.",
+    "topic_tags": ["wellness exam", "dental", "parasite screening", "weight check"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/gastroenteritis-in-dogs",
+    "title": "Gastroenteritis in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Gastroenteritis—stomach and intestinal inflammation—can be caused by infection, toxins, or diet change, leading to vomiting, diarrhea, and sometimes fever.",
+    "key_points": [
+      "Caused by infections, dietary changes, toxins, or medications :contentReference[oaicite:7]{index=7}.",
+      "Signs include abdominal pain, vomiting, diarrhea, and possibly fever or lethargy :contentReference[oaicite:8]{index=8}."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult"],
+    "severity_level": "moderate",
+    "recommendation": "Monitor hydration and symptoms; seek veterinary care if severe, persistent, or if blood is present.",
+    "topic_tags": ["gastroenteritis", "vomiting", "diarrhea", "hydration"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/anemia-in-dogs",
+    "title": "Anemia in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Anemia in dogs, defined by reduced red blood cell or hemoglobin levels (PCV < 35%), presents with lethargy, pale gums, labored breathing, and possibly collapse. Diagnosis involves CBC, reticulocyte count, blood smear, biochemical profile, imaging, and fecal exam.",
+    "key_points": [
+      "Normal PCV is 35–55%; anemia when below 35%.",
+      "Signs: pale gums, low stamina, weight loss, tachycardia, bleeding in feces/urine :contentReference[oaicite:1]{index=1}.",
+      "Diagnosis via CBC (PCV/HCT), reticulocyte count, blood smear, and further tests like imaging or parasite screening."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy","adult","senior"],
+    "severity_level": "moderate",
+    "recommendation": "Consult a veterinarian for blood work and identify underlying causes; early diagnosis enables proper treatment.",
+    "topic_tags": ["anemia","PCV","CBC","diagnosis"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/autoimmune-hemolytic-anemia-in-dogs",
+    "title": "Autoimmune Hemolytic Anemia in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "AIHA is when a dog’s immune system destroys its own red blood cells, often causing severe anemia, pale gums, weakness, rapid heart/respiration, jaundice, and dark urine.",
+    "key_points": [
+      "Immune-mediated destruction of red blood cells leads to anemia :contentReference[oaicite:2]{index=2}.",
+      "Symptoms: pale gums, lethargy, increased heart/respiratory rate, possible collapse, jaundice, dark urine/vomit."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult","senior"],
+    "severity_level": "urgent",
+    "recommendation": "Seek veterinary evaluation promptly; diagnosis via CBC and Coombs test, then initiate immunosuppressive treatment.",
+    "topic_tags": ["AIHA","hemolysis","Coombs test","jaundice"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/evans-syndrome-in-dogs-and-cats",
+    "title": "Evans Syndrome in Dogs and Cats",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Evans syndrome combines autoimmune hemolytic anemia and thrombocytopenia, leading to severe anemia, pale gums, weakness, collapse, jaundice, and bleeding signs.",
+    "key_points": [
+      "Dual immune attack on red cells and platelets causes anemia and bleeding :contentReference[oaicite:3]{index=3}.",
+      "Symptoms: pale gums, weakness, collapse, jaundice, dark urine, bleeding issues."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult","senior"],
+    "severity_level": "urgent",
+    "recommendation": "Urgent veterinary assessment needed; requires blood tests and immunosuppressive/stabilizing therapies.",
+    "topic_tags": ["Evans syndrome","autoimmune","thrombocytopenia","bleeding"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/thrombocytopenia-in-dogs",
+    "title": "Thrombocytopenia in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Low platelet count in dogs may lead to abnormal bleeding—petechiae, bruises, blood in urine/vomit/stools—and secondary anemia from blood loss; diagnosis via CBC.",
+    "key_points": [
+      "Platelets <20,000–30,000/μL risk spontaneous bleeding; normal is 175k–500k :contentReference[oaicite:4]{index=4}.",
+      "Signs: petechiae, ecchymoses, hematuria, GI bleeding, anemia signs."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult","senior"],
+    "severity_level": "moderate",
+    "recommendation": "Veterinary testing (CBC) required; treat underlying cause and monitor bleeding risks.",
+    "topic_tags": ["thrombocytopenia","bleeding","CBC","petechiae"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/chronic-kidney-disease-in-dogs",
+    "title": "Chronic Kidney Disease in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "In chronic kidney failure, insufficient erythropoietin leads to anemia; treatment may include synthetic erythropoietin to stimulate red blood cell production.",
+    "key_points": [
+      "Kidneys produce erythropoietin; failing kidneys cause anemia :contentReference[oaicite:5]{index=5}.",
+      "May require synthetic erythropoietin to correct low red blood cell production."
+    ],
+    "species": ["dog"],
+    "age_group": ["senior"],
+    "severity_level": "moderate",
+    "recommendation": "Integrate diagnostic labs and consider erythropoietin therapy under vet supervision.",
+    "topic_tags": ["kidney disease","erythropoietin","anemia"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/serum-iron-testing",
+    "title": "Serum Iron Testing in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Serum iron, TIBC, transferrin saturation, ferritin, and bone marrow iron staining help diagnose iron-deficiency anemia, often from chronic blood loss in dogs.",
+    "key_points": [
+      "Serum iron testing indicated when CBC shows microcytic, hypochromic anemia :contentReference[oaicite:6]{index=6}.",
+      "Bone marrow biopsy may be required; fecal/urine tests help identify blood loss source."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "moderate",
+    "recommendation": "Use iron panel and diagnostics to confirm iron deficiency; manage underlying bleeding causes.",
+    "topic_tags": ["iron deficiency","serum iron","TIBC","bone marrow"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/hookworm-infection-in-dogs",
+    "title": "Hookworm Infection in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Hookworm infection can cause intestinal inflammation and significant blood loss leading to anemia, diagnosed via fecal tests; treatment with anthelmintics and rarely transfusion for severe cases.",
+    "key_points": [
+      "Hookworms ingest blood and cause anemia—common in puppies :contentReference[oaicite:7]{index=7}.",
+      "Diagnosed by fecal flotation; treat twice to cover larval stages."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy","adult"],
+    "severity_level": "moderate",
+    "recommendation": "Routine deworming and fecal checks; treat infected dogs with timely medication and recheck.",
+    "topic_tags": ["hookworm","deworming","fecal test","anemia"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.humanesociety.org/resources/grooming-tips-dogs",
+    "title": "How to Groom Your Dog at Home",
+    "persona_category": "Grooming & Product Care",
+    "summary": "A practical guide to home grooming routines: brush, bathe, dry thoroughly, and safely trim around delicate areas using appropriate tools.",
+    "key_points": [
+      "Brush coat and bathe with dog‑formulated products, then dry thoroughly.",
+      "Use blunt-ended shears or clippers with guards for delicate areas."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "mild",
+    "recommendation": "Groom regularly at home; consult a professional for safe trimming techniques.",
+    "topic_tags": ["home grooming","brushing","clippers"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-to-trim-dogs-nails-safely/",
+    "title": "Trim Your Dog's Nails Safely",
+    "persona_category": "Grooming & Product Care",
+    "summary": "Nail trimming requires patience, positive reinforcement, and the right tools (clippers/grinder), and should be introduced gradually over weeks.",
+    "key_points": [
+      "Use praise and treats to build positive association.",
+      "Employ dog-friendly clippers or grinders; progress slowly."
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy","adult"],
+    "severity_level": "mild",
+    "recommendation": "Begin slowly to acclimate the dog; consult a groomer or vet if anxiety persists.",
+    "topic_tags": ["nail trimming","positive reinforcement","clippers"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/spring-dog-grooming-tips/",
+    "title": "Spring Dog Grooming Tips",
+    "persona_category": "Grooming & Product Care",
+    "summary": "Spring grooming includes increased brushing to remove winter coat, boosting circulation, and using shedding-control tools for seasonal coat health.",
+    "key_points": [
+      "Brush regularly to remove dead coat and stimulate skin circulation.",
+      "Use shedding control tools during seasonal transitions."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "mild",
+    "recommendation": "Increase grooming frequency in spring; seek professional help for heavy shedding.",
+    "topic_tags": ["seasonal grooming","shedding","brushing"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/vestibular-disease-in-dogs",
+    "title": "Vestibular Disease in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "summary": "Vestibular disease causes sudden balance loss, head tilt, and disorientation in dogs—especially older ones—often mimicking stroke, but usually resolves gradually with supportive care.",
+    "key_points": [
+      "Common in older dogs and can be idiopathic or due to ear infection, trauma, or tumor.",
+      "Symptoms include head tilt, unsteady gait, circling, nausea, and eye movements.",
+      "Most recover within 72 hours, with supportive treatments like anti-nausea meds."
+    ],
+    "species": ["dog"],
+    "age_group": ["senior"],
+    "severity_level": "urgent",
+    "recommendation": "Seek immediate veterinary care to rule out stroke or brain lesions; supportive care recommended.",
+    "topic_tags": ["vestibular disease","balance disorder","supportive care","senior dogs"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://vcahospitals.com/know-your-pet/signs-your-dog-is-stressed-and-how-to-relieve-it",
+    "title": "Signs Your Dog is Stressed and How to Relieve It",
+    "persona_category": "Behavior & Training",
+    "summary": "Dogs show stress via behaviors like lip licking, yawning, pacing, or hiding—common triggers include travel, noise, and changes in routine; remedies include structured environments, safe spaces, and calm reinforcement.",
+    "key_points": [
+      "Common stress signals: yawning, lip licking, pacing, panting, yawning, hiding.",
+      "Stress often triggered by travel, thunderstorms, new places, or routine changes.",
+      "Providing calm routines, escape space, and positive distractions helps relieve stress."
+    ],
+    "species": ["dog"],
+    "age_group": ["adult"],
+    "severity_level": "mild",
+    "recommendation": "Watch for stress cues and use consistent routines, safe areas, and reward calm behavior; seek professional help if stress persists.",
+    "topic_tags": ["stress", "behavior signals", "anxiety", "calming"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/what-fruits-can-dogs-eat",
+    "title": "What Fruits Can Dogs Eat?",
+    "persona_categoria": "Diet & Nutrition",
+    "summary": "This article reviews which fruits are safe and nutritious for dogs, explaining benefits of fruits like apples, blueberries, strawberries, and watermelon, and highlighting which ones to avoid due to toxicity or digestive issues.",
+    "key_points": [
+      "Safe fruits include apples, blueberries, strawberries, and watermelon as sources of vitamins and antioxidants",
+      "Some fruits (e.g., grapes, raisins, avocado) are toxic and should never be fed",
+      "Fruit should be fed in moderation and prepared safely (e.g., remove seeds/pits)",
+      "Always monitor for digestive upset or allergic reactions"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Offer safe fruits occasionally as treats; avoid toxic fruits and consult a vet if ingestion of a harmful fruit occurs.",
+    "topic_tags": ["fruit safety", "treats", "toxicity", "diet"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/evr_dg_whats_in_a_balanced_dog_food",
+    "title": "Dog Nutrition: A Guide to Dog Food Nutrients",
+    "persona_categoria": "Diet & Nutrition",
+    "summary": "Comprehensive overview of what makes a dog food complete and balanced, including AAFCO nutrient requirements, label reading, and how life stage and activity level affect dietary needs.",
+    "key_points": [
+      "Balanced diets require protein, fats, carbohydrates, vitamins, minerals, and water per AAFCO standards",
+      "Dog food labels should include guaranteed analysis, ingredient list, nutritional adequacy statement, feeding directions",
+      "Nutrient needs vary by life stage, breed, size, activity, and health",
+      "Consult a veterinary nutritionist for homemade or special diets"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Ensure commercial food meets AAFCO standards for your dog’s life stage; consult a specialist before making dietary changes.",
+    "topic_tags": ["AAFCO", "balanced diet", "nutrition labels", "homemade diet"],
+    "date_created": "2025-06-17",
+    "license": "open"
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/what-are-dog-supplements-how-do-they-work",
+    "title": "What Are Dog Supplements and How Do They Work?",
+    "persona_categoria": "Diet & Nutrition",
+    "summary": "Explains the role of supplements in canine diets, defining supplements, regulatory oversight (NASC seal), and the importance of quality standards when adding supplements to a dog’s diet.",
+    "key_points": [
+      "Supplements include any product added to regular diet to improve health",
+      "The NASC seal indicates meeting quality standards for safety and efficacy",
+      "Supplements should be chosen carefully—look for reputable certifications",
+      "Consult a veterinarian before adding supplements to a dog's diet"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Only use vetted supplements carrying the NASC seal, and discuss choices with your vet.",
+    "topic_tags": ["supplements", "NASC", "nutritional support", "diet safety"],
+    "date_created": "NA",
+    "license": "open"
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/pet-food-ingredient-and-label-guide",
+    "title": "A Guide to Dog Food Ingredients and Reading Dog Food Labels",
+    "persona_categoria": "Diet & Nutrition",
+    "summary": "Breaks down common dog food ingredients (proteins, carbs, fats, water, probiotics, preservatives), how to read labels (guaranteed analysis, ingredients list, calories, feeding instructions), and what to avoid or select.",
+    "key_points": [
+      "Primary nutrients are proteins, carbs, fats, and water, followed by vitamins/minerals",
+      "Understanding guaranteed analysis and ingredients list is key",
+      "Avoid toxic ingredients like garlic, lavender, chocolate, avocado, raw items",
+      "Animal by‑products and fillers can be nutritious if properly used",
+      "Proper storage (airtight containers, refrigeration) preserves nutrients"
+    ],
+    "species": ["dog"],
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "recommendation": "Choose foods with clear labels, high-quality ingredients, and suitable nutrient balance; handle and store properly.",
+    "topic_tags": ["food labels", "ingredients", "storage", "safety"],
+    "date_created": "2024-10-31",
+    "license": "open"
+  }
+]
