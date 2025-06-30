@@ -48,7 +48,7 @@ def load_urls_and_metadata(filepath):
 
     return urls, metadata_list
 
-urls, metas = load_urls_and_metadata(r"D:\VetAI\data\John.json")
+urls, metas = load_urls_and_metadata(r"data\John.json")
 
 # Step 3: Custom Loader for VCAHospitals
 def load_vca_sections(url: str) -> list[Document]:
@@ -86,5 +86,5 @@ print(f"📄 Total clean documents ready: {len(docs)}")
 
 # Step 5: Saving docs as pickle for later use
 import pickle
-with open(r"D:\VetAI\Cleaned-Data\clean_docs.pkl", "wb") as f:
+with open(r"Cleaned-Data\clean_docs.pkl", "wb") as f:
     pickle.dump(docs, f)
