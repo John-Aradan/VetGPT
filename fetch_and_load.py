@@ -8,9 +8,7 @@ from bs4 import BeautifulSoup
 import requests
 
 from langchain_community.document_loaders import WebBaseLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Pinecone
-from langchain_community.embeddings.openai import OpenAIEmbeddings
 from langchain.schema import Document
 from pinecone import Pinecone, ServerlessSpec
 
@@ -85,3 +83,8 @@ for url, meta in zip(urls, metas):
         docs.append(doc)
 
 print(f"📄 Total clean documents ready: {len(docs)}")
+
+# Step 5: Saving docs as pickle for later use
+import pickle
+with open(r"D:\VetAI\Cleaned-Data\clean_docs.pkl", "wb") as f:
+    pickle.dump(docs, f)
