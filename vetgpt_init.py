@@ -44,4 +44,4 @@ def load_urls_and_metadata(filepath):
 
     return urls, metadata_list
 
-urls, metadata_list = load_urls_and_metadata(r"D:\VetGPT\data\John.json")
+urls, metadata_list = load_urls_and_metadata(r"D:\VetAI\data\John.json")
