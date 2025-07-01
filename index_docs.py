@@ -6,7 +6,6 @@ from dotenv import load_dotenv
 from pinecone import Pinecone
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import Pinecone as LangchainPinecone
 
 # Step 0: Load environment variables, import from pickle, initialize Pinecone
 load_dotenv()
@@ -14,6 +13,10 @@ with open(r"Cleaned-Data\clean_docs.pkl", "rb") as f:
     docs = pickle.load(f)
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
 index = pc.Index(os.getenv("PINECONE_INDEX"))
+
+## Delete all existing vectors in the namespace (optional)
+# Uncomment the following lines if you want to clear the namespace before indexing new chunks
+# index.delete(delete_all=True, namespace="vetgpt")
 
 # Step 1: Chunk Documents
 print(len(docs))
@@ -56,6 +59,8 @@ for i in range(0, len(to_index_pairs), BATCH_SIZE):
     upsert_vectors = []
     for cid, chunk in batch:
         vector = emb.embed_documents([chunk.page_content])[0]  # Embed the chunk content
+        # add chuck into the metadata
+        chunk.metadata["text"] = chunk.page_content
         upsert_vectors.append({
             "id": cid,
             "values": vector,
