@@ -36,7 +36,7 @@ for i, chunk in enumerate(chunks):
     cid = make_chunk_id(chunk.metadata["source"], i)
     chunk_pairs.append((cid, chunk))
 
-print("Created Chunks IDs")
+print("Created Chunks IDs:")
 
 # Check for existing IDs in Pinecone
 ids = [cid for cid, _ in chunk_pairs]  # List of all chunk IDs
