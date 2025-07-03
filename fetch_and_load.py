@@ -19,12 +19,6 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 user_agent = os.getenv("USER_AGENT")
 
-pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
-index_name = "vetgpt"
-if index_name not in pc.list_indexes().names():
-    raise ValueError(f"Index '{index_name}' does not exist in Pinecone!")
-index = pc.Index(index_name)
-
 # Step 2: Load URLs and metadata from JSON file
 def load_urls_and_metadata(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
@@ -82,7 +76,7 @@ for url, meta in zip(urls, metas):
         doc.metadata.update(meta)
         docs.append(doc)
 
-print(f"📄 Total clean documents ready: {len(docs)}")
+print(f"Total clean documents ready: {len(docs)}")
 
 # Step 5: Saving docs as pickle for later use
 import pickle
