@@ -3,3 +3,4 @@
 Cleaned-Data/
 .vscode/
 __pycache__/
+.streamlit/

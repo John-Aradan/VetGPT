@@ -55,12 +55,3 @@ query = "What are the preventive health guidelines for dogs?"
 2. Pass the retrieved documents to the `create_stuff_documents_chain`, which will format them according to the prompt and generate an answer using the LLM.
 3. Return the answer along with source documents.)"""
 result = qa_chain.invoke({"input": query})
-
-print("Result keys:", result.keys())  # To see the keys in the result dictionary
-
- # Step 8: Retrieve the answer and source documents
-answer = result.get("answer", "No answer generated.")
-source_docs = result.get("context", [])
-print("Query:", result.get("input"))
-print("Answer:", answer)
-print("Source Documents: ", len(source_docs))
