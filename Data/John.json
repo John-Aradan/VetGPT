@@ -684,24 +684,6 @@
     "license": "open"
   },
   {
-    "source": "https://www.akc.org/expert-advice/nutrition/dog-nutrition-what-you-need-to-know/",
-    "title": "Dog Nutrition: What You Need to Know",
-    "persona_category": "Diet & Nutrition",
-    "summary": "The AKC details key nutritional components—proteins, fats, carbs, fiber, vitamins, and minerals—explaining their roles and emphasizing adjusting nutrition based on life stage, activity, or health status.",
-    "key_points": [
-      "Essential nutrients: proteins, fats, carbs, fiber, vitamins, minerals",
-      "Diet should align with life stage, activity, and health needs",
-      "Consult vet and review labels for nutrition adequacy"
-    ],
-    "species": ["dog"],
-    "age_group": ["puppy", "adult", "senior"],
-    "severity_level": "mild",
-    "recommendation": "Balance key nutrients and tailor feeding strategies in consultation with your vet.",
-    "topic_tags": ["nutrient balance", "AKC nutrition", "diet planning"],
-    "date_created": "NA",
-    "license": "open"
-  },
-  {
     "source": "https://vetnutrition.tufts.edu/",
     "title": "Tufts Dog Nutrition Resource Center",
     "persona_category": "Diet & Nutrition",

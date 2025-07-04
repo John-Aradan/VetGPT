@@ -1,3 +1,5 @@
 .venv/
 .env
 Cleaned-Data/
+.vscode/
+__pycache__/

@@ -1,54 +1,12 @@
+from langchain.schema import Document
 import re
 from urllib.parse import urlparse
-from dotenv import load_dotenv
 import os
-import json
-import openai
-from bs4 import BeautifulSoup
 import requests
-
-from langchain_community.document_loaders import WebBaseLoader
-from langchain_community.vectorstores import Pinecone
-from langchain.schema import Document
-from pinecone import Pinecone, ServerlessSpec
-
-#Step 0: Load environment variables from .env file
-load_dotenv()
-
-# Step 1: Set API keys and initialize Pinecone
-openai.api_key = os.getenv("OPENAI_API_KEY")
-user_agent = os.getenv("USER_AGENT")
-
-# Step 2: Load URLs and metadata from JSON file
-def load_urls_and_metadata(filepath):
-    with open(filepath, "r", encoding="utf-8") as f:
-        raw_data = json.load(f)
-
-    urls = []
-    metadata_list = []
-
-    for entry in raw_data:
-        url = entry.get("source")
-        if url:
-            urls.append(url)
-            metadata_list.append({
-                "title": entry.get("title"),
-                "source": url,
-                "tags": entry.get("topic_tags", []),
-                "age_group": entry.get("age_group", []),
-                "severity": entry.get("severity_level"),
-                "persona_category": entry.get("persona_category", [])
-            })
-
-    return urls, metadata_list
-
-urls, metas = load_urls_and_metadata(r"data\John.json")
+from bs4 import BeautifulSoup
 
 # Step 1a: Custom Loader for VCAHospitals
 def load_vca_sections(url: str) -> list[Document]:
-    parsed = urlparse(url)
-    if parsed.netloc not in ("vcahospitals.com", "www.vcahospitals.com"):
-        return []
     
     resp = requests.get(url, headers={"User-Agent": os.getenv("USER_AGENT", "")})
     resp.raise_for_status()
@@ -67,9 +25,6 @@ def load_vca_sections(url: str) -> list[Document]:
 
 # Step 1b: Custom Loader for AKC
 def load_akc_article(url: str) -> list[Document]:
-    parsed = urlparse(url)
-    if "akc.org" not in parsed.netloc:
-        return []
     
     resp = requests.get(url, headers={"User-Agent": os.getenv("USER_AGENT", "")})
     resp.raise_for_status()
@@ -98,26 +53,18 @@ def load_akc_article(url: str) -> list[Document]:
 
 # Step 1c: Custom Loader for PetMD
 def load_petmd_article(url: str) -> list[Document]:
-    parsed = urlparse(url)
-    if "petmd.com" not in parsed.netloc:
-        return []
     
     resp = requests.get(url, headers={"User-Agent": os.getenv("USER_AGENT", "")})
     resp.raise_for_status()
-
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # get title
     title_tag = soup.find("h1", class_="article_title_article_title__98_zt")
     title = title_tag.get_text(strip=True) if title_tag else "PetMD Article"
-    print(f"Title: {title}")
 
-    # get content 
     article_container = soup.find("div", class_="article_content_article_body__GQzms")
     if not article_container:
         return []
 
-    # get paras
     content = []
     for tag in article_container.find_all(["p", "h2", "h3"]):
         text = tag.get_text(strip=True)
@@ -129,20 +76,13 @@ def load_petmd_article(url: str) -> list[Document]:
 
     return [Document(page_content=full_text, metadata={"source": url})]
 
+SCRAPPER_MAP = {
+    "www.vcahospitals.com": load_vca_sections,
+    "www.akc.org": load_akc_article,
+    "www.petmd.com": load_petmd_article
+}
 
-# Step 4: Fetch Full Text from URLs via Custom Loader
-docs = []
-for url, meta in zip(urls, metas):
-    loaded_docs = load_vca_sections(url)
-    if not loaded_docs:
-        continue
-    for doc in loaded_docs:
-        doc.metadata.update(meta)
-        docs.append(doc)
-
-print(f"Total clean documents ready: {len(docs)}")
-
-# Step 5: Saving docs as pickle for later use
-import pickle
-with open(r"Cleaned-Data\clean_docs.pkl", "wb") as f:
-    pickle.dump(docs, f)
+def load_article(url: str) -> list[Document]:
+    parsed = urlparse(url)
+    domain = parsed.netloc
+    return SCRAPPER_MAP.get(domain, lambda url: [])(url)
