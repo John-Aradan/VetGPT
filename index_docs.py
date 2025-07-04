@@ -25,24 +25,34 @@ chunks = splitter.split_documents(docs)
 print(len(chunks))
 
 # Step 2: Prepare Deterministic IDs for Chunks
-def make_chunk_id(source_url: str, chunk_index: int) -> str:
-    base = f"{source_url}||{chunk_index}"
+def make_chunk_id(chunk) -> str:
+    base = f"{chunk.metadata['source']}||{chunk.page_content.strip()}"
     return hashlib.sha1(base.encode()).hexdigest()
 
 # pair chunks with their IDs
 chunk_pairs = []
 for i, chunk in enumerate(chunks):
-    chunk.metadata["chunk_index"] = i  # Add chunk index to metadata
-    cid = make_chunk_id(chunk.metadata["source"], i)
+    cid = make_chunk_id(chunk)
     chunk_pairs.append((cid, chunk))
 
-print("Created Chunks IDs:")
+print(f"No. Chunks: {len(chunk_pairs)}")
+
+print("Created Chunks IDs")
 
 # Check for existing IDs in Pinecone
 ids = [cid for cid, _ in chunk_pairs]  # List of all chunk IDs
 
-existing = index.fetch(ids, namespace="vetgpt")
-existing_ids = set(existing.vectors.keys())
+# create function to fetch existing IDs from Pinecone without Request-URI too Large
+def fetch_existing_ids(index, ids, namespace, batch_size=100):
+    existing_ids = set()
+    for i in range(0, len(ids), batch_size):
+        batch = ids[i:i + batch_size]
+        resp = index.fetch(batch, namespace=namespace)
+        existing_ids.update(resp.vectors.keys())
+    return existing_ids
+
+
+existing_ids = fetch_existing_ids(index, ids, namespace="vetgpt")
 print(f"Found {len(existing_ids)} existing vector IDs in index")
 
 # Filter to only new chunks
@@ -55,10 +65,12 @@ BATCH_SIZE = 50
 
 for i in range(0, len(to_index_pairs), BATCH_SIZE):
     batch = to_index_pairs[i:i + BATCH_SIZE]
+    print(f"[INFO] Embedding batch {i // BATCH_SIZE + 1} / {(len(to_index_pairs) + BATCH_SIZE - 1) // BATCH_SIZE}")
 
     upsert_vectors = []
     for cid, chunk in batch:
         vector = emb.embed_documents([chunk.page_content])[0]  # Embed the chunk content
+        print(f"Chunk ID: {cid}, Vector Length: {len(vector)}")
         # add chuck into the metadata
         chunk.metadata["text"] = chunk.page_content
         upsert_vectors.append({
