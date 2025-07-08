@@ -20,7 +20,7 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 user_agent = os.getenv("USER_AGENT")
 
-with open("data/John.json", "r+", encoding="utf-8") as f:
+with open("data/Main-JSON.json", "r+", encoding="utf-8") as f:
     raw_data = json.load(f)
 
 # Step 2: Load URLs and metadata from JSON file
