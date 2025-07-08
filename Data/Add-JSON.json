@@ -1,0 +1,548 @@
+[
+  {
+    "source": "https://www.petmd.com/general-health/must-have-items-for-pet-first-aid-kit",
+    "title": "10 Must‑Have Items for Your Pet First‑Aid Kit",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": [
+      "first aid",
+      "emergency kit",
+      "bandage",
+      "wound care",
+      "transport"
+    ],
+    "summary": "A veterinarian-recommended checklist of 10 essential supplies for a pet first‑aid kit—such as bandages, wound care items, thermometer, eye wash, styptic powder, syringe, transport aids, and cleanup materials—plus extras like treats and water to aid during emergencies."
+  },
+  {
+    "source": "https://www.petmd.com/hub/pet-emergencies",
+    "title": "Pet Emergencies",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "urgent",
+    "topic_tags": ["CPR", "Heimlich", "emergency preparedness", "first aid"],
+    "summary": "An overview hub guiding pet owners to vital emergency care topics—including CPR, choking rescue, and first‑aid preparedness—emphasizing staying calm, being prepared, and understanding when to seek immediate veterinary help."
+  },
+  {
+    "source": "https://www.petmd.com/dog/general-health/what-pack-your-dog-emergency-kit-how-prepare-your-pup-disaster",
+    "title": "What to Pack in Your Dog’s Emergency Kit & How to Prepare Your Pup for Disasters",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": [
+      "disaster preparedness",
+      "emergency kit",
+      "transport",
+      "hydration"
+    ],
+    "summary": "Detailed guidance on preparing a canine emergency kit for disasters, including medical records, first‑aid supplies, food, water, medications, leash, and transport items, plus tips on evacuation preparedness and keeping pets calm and identifiable."
+  },
+  {
+    "source": "https://www.petmd.com/dog/general-health/dog-wound-care-how-to-clean-treat-dog-wounds-at-home",
+    "title": "Dog Wound Care: How to Clean & Treat Dog Wounds at Home",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": [
+      "wound care",
+      "cleaning",
+      "bandaging",
+      "styptic powder",
+      "recovery cone"
+    ],
+    "summary": "Step‑by‑step instructions for at‑home dog wound care: cleaning with water and pet-safe spray/wipes, clipping fur, applying ointment and gauze, using styptic powder for bleeding, and securing dressings with vet wrap and cone until vet care is available."
+  },
+  {
+    "source": "https://www.petmd.com/dog/care/first-aid-broken-nails-dogs",
+    "title": "First Aid for Broken Nails in Dogs",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": ["broken nail", "styptic powder", "nail care", "bleeding"],
+    "summary": "Advice on handling dog broken nails: safely restrain the dog, apply pressure to stop bleeding, use styptic powder if needed, trim dangling parts if possible, apply antibiotic ointment, bandage the area, and seek vet care if bleeding persists."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/pet-owners/emergencycare/first-aid-tips-pet-owners",
+    "title": "First‑Aid Tips for Pet Owners (AVMA)",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "urgent",
+    "topic_tags": ["first aid", "CPR", "heat stroke", "bleeding control"],
+    "summary": "AVMA’s pet first‑aid guide covers critical interventions like bleeding control, CPR, heatstroke management, and choking rescue, emphasizing immediate response actions while getting professional veterinary help."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/pet-owners/emergency-care",
+    "title": "Emergency Care (AVMA)",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "urgent",
+    "topic_tags": ["emergency care", "disasters", "preparedness", "evacuation"],
+    "summary": "Provides comprehensive advice on managing pet emergencies—from household incidents to disaster events—including recognizing emergencies, administering first aid, preparing disaster kits, and safely evacuating with pets."
+  },
+  {
+    "source": "https://www.avma.org/resources-pet-owners/emergencycare/13-animal-emergencies-require-immediate-veterinary-consultation-andor-care",
+    "title": "13 Emergencies That Require Immediate Veterinary Care",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "urgent",
+    "topic_tags": [
+      "emergency signs",
+      "vomiting",
+      "seizures",
+      "trauma",
+      "collapse"
+    ],
+    "summary": "Lists 13 critical signs warranting immediate vet care—such as difficulty breathing, seizures, bleeding, vomiting/diarrhea, trauma, paralysis, toxins/PTSD—helping owners recognize when to seek emergency treatment."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/pet-owners/emergency-care/pets-and-disasters",
+    "title": "Pets and Disasters (AVMA)",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "urgent",
+    "topic_tags": ["disaster preparedness", "evacuation", "kit", "ID tags"],
+    "summary": "Guidelines for planning pet safety during disasters: developing evacuation plans, putting IDs and microchips on pets, preparing a disaster kit, ensuring carriers and calm handling, and coordinating with shelters."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/animal-health-and-welfare/disaster-preparedness",
+    "title": "Disaster Preparedness (AVMA)",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "urgent",
+    "topic_tags": [
+      "disaster planning",
+      "public health",
+      "shelter-in-place",
+      "emergency kit"
+    ],
+    "summary": "AVMA’s broader disaster preparedness guide for animal owners and facilities covers food/water supply, evacuation versus sheltering‑in‑place, biosecurity, emergency planning, and resource coordination before and after disasters."
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/emergencies-first-aid/",
+    "title": "Medical Emergency Care Tips for Your Dog",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "urgent",
+    "topic_tags": [
+      "CPR",
+      "artificial respiration",
+      "choking",
+      "emergency first aid"
+    ],
+    "summary": "AKC outlines steps for emergency care, including clearing airway obstructions, performing artificial respiration (close mouth, blow into nostrils), and chest compressions (5:1 ratio) if no heartbeat is detected, with details adapting to dog size."
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-to-keep-your-dog-healthy/",
+    "title": "How to Keep Your Dog Healthy",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["preventive care", "vaccinations", "exercise", "nutrition"],
+    "summary": "Guide covering routine healthcare: balanced diet, regular exercise, vaccination schedules, parasite control, dental hygiene, and routine checkups to maintain overall canine well-being."
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-often-should-i-take-my-dog-to-the-vet/",
+    "title": "How Often Should I Take My Dog to the Vet?",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["vet visits", "wellness exams", "age-based care"],
+    "summary": "AKC advises vet visit frequency by life stage—puppies: every 3–4 weeks initially; adults: annually; seniors: bi‑annual exams—to monitor evolving health needs, preventive measures, dental care, and chronic problem screening."
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/should-i-call-my-dogs-vet/",
+    "title": "Should I Call My Dog’s Vet?",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": ["when to call vet", "symptom assessment", "illness signs"],
+    "summary": "Advice on identifying when to contact a vet: persistent vomiting/diarrhea, loss of appetite, behavioral change, unusual discharge, recurring symptoms—highlighting early intervention for potentially serious concerns."
+  },
+  {
+    "source": "https://images.akc.org/pdf/ebook/healthy_dog.pdf",
+    "title": "The Healthy Dog eBook",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["wellness", "grooming", "training", "health checklist"],
+    "summary": "AKC’s Healthy Dog guide e‑book covers holistic pet care: nutrition, grooming, training basics, wellness routines, behavioral enrichment, and disease prevention to support lifelong canine health."
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/evr_dg_whats_in_a_balanced_dog_food",
+    "title": "What’s in a Balanced Dog Food",
+    "persona_category": "Diet & Nutrition",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["nutrition", "dog food labels", "macronutrients", "AAFCO"],
+    "summary": "Explains essential dog food components—proteins, carbohydrates, fats, vitamins, minerals—and how to read labels; emphasizes AAFCO 'complete and balanced' marking and ingredient order listing :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/are-you-feeding-your-dog-right-amount",
+    "title": "Are You Feeding Your Dog the Right Amount?",
+    "persona_category": "Diet & Nutrition",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["portion control", "calorie needs", "weight management"],
+    "summary": "Guidance on determining correct food amounts by assessing calorie requirements based on age, weight, activity, and adjusting based on body condition; recommends gradual changes."
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/how-to-choose-the-best-dog-food",
+    "title": "How to Choose the Best Dog Food",
+    "persona_category": "Diet & Nutrition",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["dog food selection", "life stage", "ingredient analysis"],
+    "summary": "Covers selecting dog food: match life stage and size, look for AAFCO compliance, evaluate ingredients (meat first, avoid fillers), consider health issues, consult vets on special diets."
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/what-are-dog-supplements-how-do-they-work",
+    "title": "What Are Dog Supplements & How Do They Work?",
+    "persona_category": "Diet & Nutrition",
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["supplements", "omega-3", "glucosamine", "probiotics"],
+    "summary": "Explores common supplements like omega‑3s for inflammation, glucosamine for joint support, probiotics for digestion; explains benefits, usage, vet consultation, and supplement regulation."
+  },
+  {
+    "source": "https://www.petmd.com/dog/nutrition/how-many-calories-does-a-dog-need",
+    "title": "How Many Calories Does a Dog Need?",
+    "persona_category": "Diet & Nutrition",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": [
+      "calorie needs",
+      "energy requirements",
+      "feeding guidelines"
+    ],
+    "summary": "Details energy needs based on weight, age, neuter status, and activity; provides formulas to estimate daily caloric intake and advises monitoring weight and adjusting feeding accordingly."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/nutrition-matters",
+    "title": "Nutrition Matters",
+    "persona_category": "Diet & Nutrition",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["balanced diet", "nutrients", "pet health"],
+    "summary": "AVMA explains how balanced nutrition supports overall pet health by providing essential nutrients, influencing development, disease prevention, and wellbeing."
+  },
+  {
+    "source": "https://www.avma.org/news/how-dog-owner-feeding-choices-correlate-nutritional-health-outcomes",
+    "title": "How Dog Owner Feeding Choices Correlate with Nutritional Health Outcomes",
+    "persona_category": "Diet & Nutrition",
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["feeding choices", "diet trends", "health outcomes"],
+    "summary": "AVMA article reviews how owner feeding decisions—like home-prepared or commercial diets—affect canine health outcomes, referencing studies on nutrient deficiencies and veterinary advice."
+  },
+  {
+    "source": "https://www.avma.org/javma-news/2021-09-01/new-aaha-nutrition-weight-management-guidelines-published",
+    "title": "New AAHA Nutrition & Weight Management Guidelines Published",
+    "persona_category": "Diet & Nutrition",
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["weight management", "guidelines", "obesity"],
+    "summary": "AvMA shares AAHA’s 2021 guidelines on canine nutrition and weight management including assessment, diet planning, obesity prevention, and monitoring strategies."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/animal-health-and-welfare/raw-or-undercooked-animal-source-protein-cat-and-dog-diets",
+    "title": "Raw or Undercooked Animal‑Source Protein in Cat and Dog Diets",
+    "persona_category": "Diet & Nutrition",
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": ["raw diet", "food safety", "pathogens"],
+    "summary": "AVMA cautions against raw/undercooked animal proteins in pet diets due to risk of pathogens like Salmonella; recommends cooking food fully and vet consultation."
+  },
+  {
+    "source": "https://www.avma.org/javma-news/2021-07-01/nutritional-conversations-front-and-center",
+    "title": "Nutritional Conversations Front and Center",
+    "persona_category": "Diet & Nutrition",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["veterinary-client communication", "nutrition guidance"],
+    "summary": "Highlights importance of vet-client dialogue about nutrition, feeding trends, and diet choices; encourages professionals to proactively address dietary concerns."
+  },
+  {
+    "source": "https://www.petmd.com/dog/grooming/how-to-bathe-a-dog",
+    "title": "How to Bathe a Dog",
+    "persona_category": "Grooming & Product Care",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["bathing", "shampoo", "coat care", "drying"],
+    "summary": "Step‑by‑step guide on dog baths: prepping coat, choosing dog‑safe shampoo, gentle washing, thorough rinsing, drying techniques, plus tips for sensitive skins."
+  },
+  {
+    "source": "https://www.petmd.com/dog/general-health/how-to-trim-dog-nails",
+    "title": "How to Trim Dog Nails",
+    "persona_category": "Grooming & Product Care",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["nail trimming", "styptic powder", "tools", "safety"],
+    "summary": "Covers trimming safety: choosing tools, locating quick, trimming technique, preventing bleeding using styptic powder, praising the dog and reducing stress."
+  },
+  {
+    "source": "https://www.petmd.com/dog/grooming/pet-grooming-how-handle-matting-dogs-and-cats",
+    "title": "Pet Grooming: How to Handle Matting in Dogs and Cats",
+    "persona_category": "Grooming & Product Care",
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": ["matting", "dematting", "coat health"],
+    "summary": "Explains how to gently detangle mats using tools and products, when to cut out mats, prevent skin issues, and when professional grooming is advised."
+  },
+  {
+    "source": "https://www.petmd.com/dog/general-health/excessive-licking-chewing-and-grooming-dogs",
+    "title": "Excessive Licking, Chewing and Grooming in Dogs",
+    "persona_category": "Grooming & Product Care",
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": ["licking", "allergy", "behavior", "skin irritation"],
+    "summary": "Reviews causes and management for over‑grooming: allergies, anxiety, pain; recommends vet diagnosis, topical treatments, behavior modification and monitoring."
+  },
+  {
+    "source": "https://www.petmd.com/dog/grooming/evr_dg_safety_tips_for_the_professional_groomer",
+    "title": "Safety Tips for the Professional Groomer",
+    "persona_category": "Grooming & Product Care",
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["groomer safety", "handling", "equipment care"],
+    "summary": "Lists professional safety practices: using proper restraints, ergonomic tools, sanitizing equipment, handling aggressive pets, and maintaining a safe workspace."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/petcare/external-parasites",
+    "title": "External Parasites",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": ["parasites", "fleas", "ticks", "mange", "prevention"],
+    "summary": "AVMA details common external parasites affecting pets—fleas, ticks, mites—and covers prevention methods, signs of infestation, disease transmission risks, and safe treatment options."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/animal-health-and-welfare/companion-animal-care-guidelines",
+    "title": "Companion Animal Care Guidelines",
+    "persona_category": "Health & Medical Guidance",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": [
+      "wellness",
+      "environment",
+      "socialization",
+      "veterinary care"
+    ],
+    "summary": "AVMA outlines general care standards for companion animals including proper housing, nutrition, social needs, enrichment, preventive vet care, and handling procedures."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/pet-owners/petcare/selecting-pet-dog",
+    "title": "Selecting a Pet Dog",
+    "persona_category": "Behavior & Training",
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "topic_tags": [
+      "breed selection",
+      "lifestyle fit",
+      "family compatibility",
+      "adoption"
+    ],
+    "summary": "Guidance on selecting an appropriate dog by evaluating breed traits, energy level, family situation, environment, and matching temperament to prospective owner’s lifestyle."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/animal-health-and-welfare/socialization-dogs-and-cats",
+    "title": "Socialization of Dogs and Cats",
+    "persona_category": "Behavior & Training",
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "topic_tags": [
+      "socialization",
+      "behavior",
+      "puppy training",
+      "desensitization"
+    ],
+    "summary": "Discusses importance of early socialization, exposing pets to people, other animals, environments to prevent behavior problems, and recommends supervised, positive experiences."
+  },
+  {
+    "source": "https://www.avma.org/javma-news/2019-12-01/study-links-skin-allergies-dogs-problem-behaviors",
+    "title": "Study Links Skin Allergies in Dogs to Problem Behaviors",
+    "persona_category": "Behavior & Training",
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": ["skin allergy", "behavior problems", "itching", "welfare"],
+    "summary": "Reports on research showing dogs with skin allergies are more likely to show aggression, fear, or reduced activity, suggesting dermatologic issues can influence behavior."
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/10-grooming-tips-dog-show-experts/",
+    "title": "10 Grooming Tips from Dog Show Experts",
+    "persona_category": "Grooming & Product Care",
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["grooming", "coat care", "show dog", "technique"],
+    "summary": "AKC compiles top grooming tips from show professionals, covering coat brushing, bathing frequency, trimming technique, coat protection, and maintaining show-ready appearance."
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/why-its-worth-having-your-dog-groomed-professionally/",
+    "title": "Why It’s Worth Having Your Dog Groomed Professionally",
+    "persona_category": "Grooming & Product Care",
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": [
+      "professional grooming",
+      "coat health",
+      "early detection",
+      "sanitation"
+    ],
+    "summary": "Explains the benefits of professional grooming—skilled coat handling, early health issue detection, hygiene maintenance, and stress reduction in dogs through expert care."
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/teaching-dog-enjoy-grooming/",
+    "title": "Teaching Your Dog to Enjoy Grooming",
+    "persona_category": "Behavior & Training",
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "topic_tags": [
+      "grooming training",
+      "positive association",
+      "desensitization"
+    ],
+    "summary": "Offers training strategies to create positive associations with grooming, using treats, gradual introduction to tools, patience, and praise so grooming becomes enjoyable."
+  },
+  {
+    "source": "https://www.akc.org/expert-advice/health/how-to-overcome-the-4-biggest-dog-grooming-challenges/",
+    "title": "How to Overcome the 4 Biggest Dog Grooming Challenges",
+    "persona_category": "Grooming & Product Care",
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": [
+      "grooming challenges",
+      "mats",
+      "sensitive areas",
+      "hairballs"
+    ],
+    "summary": "Addresses top grooming issues—matted coat, grooming sensitive regions, anxious dogs, and shedding—by offering practical solutions like dematting tools, calm handling, regular brushing."
+  },
+  {
+    "source": "https://shop.akc.org/products/dog-grooming-deshed-kit?srsltid=AfmBOoqkhPHW6rQQSNwtUth4PA_LKb_tbFkNzrGNg5zUOQooiukYfS1X",
+    "title": "AKC Dog Grooming & Deshed Kit",
+    "persona_category": "Grooming & Product Care",
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["grooming", "tools", "deshedding"],
+    "summary": "AKC’s grooming kit includes tools designed to help deshed, detangle, and maintain coat health. It's a product offering intended to aid at-home grooming routines."
+  },
+  {
+    "source": "https://www.petmd.com/dog/training/how-help-dog-separation-anxiety",
+    "title": "How to Help a Dog with Separation Anxiety",
+    "persona_category": "Behavior & Training",
+    "age_group": ["adult", "senior", "puppy"],
+    "severity_level": "moderate",
+    "topic_tags": [
+      "separation anxiety",
+      "training",
+      "crate training",
+      "counter-conditioning"
+    ],
+    "summary": "This article outlines how to alleviate separation anxiety in dogs using gradual desensitization, crate training, counter-conditioning, exercise, mental stimulation, and strategies to acclimate dogs to being alone while reducing stress."
+  },
+  {
+    "source": "https://www.petmd.com/dog/conditions/behavioral/dog-anxiety",
+    "title": "Dog Anxiety: Signs, Causes & Treatment",
+    "persona_category": "Behavior & Training",
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": [
+      "anxiety",
+      "stress signs",
+      "behavior therapy",
+      "environmental triggers"
+    ],
+    "summary": "Describes general anxiety in dogs, including common causes (e.g., thunderstorms, travel), recognizing stress behaviors, and treatment approaches such as training, environmental enrichment, and veterinary guidance."
+  },
+  {
+    "source": "https://www.petmd.com/dog/conditions/behavioral/separation-anxiety-dogs",
+    "title": "Separation Anxiety in Dogs: Symptoms & Solutions",
+    "persona_category": "Behavior & Training",
+    "age_group": ["puppy", "adult"],
+    "severity_level": "urgent",
+    "topic_tags": [
+      "separation anxiety",
+      "symptoms",
+      "destruction",
+      "house soiling"
+    ],
+    "summary": "Focuses specifically on separation anxiety signs (e.g., destructive behavior, vocalization), offers treatment protocols including gradual departure training, enrichment, and seeking professional support for severe cases."
+  },
+  {
+    "source": "https://www.petmd.com/dog/behavior/how-manage-clingy-dog-behavior-0",
+    "title": "How to Manage Clingy Dog Behavior",
+    "persona_category": "Behavior & Training",
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": [
+      "clinginess",
+      "independence training",
+      "routine",
+      "confidence"
+    ],
+    "summary": "Offers tips for reducing clingy behavior by encouraging independence through scheduled alone time, positive reinforcement, confidence-building, and structured daily routines."
+  },
+  {
+    "source": "https://www.petmd.com/dog/behavior/evr_dg_how-to-calm-down-an-anxious-dog",
+    "title": "How to Calm Down an Anxious Dog",
+    "persona_category": "Behavior & Training",
+    "age_group": ["adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["anxiety", "calming techniques", "pheromones", "massage"],
+    "summary": "Provides immediate calming techniques including massage, pheromone diffusers, behavioral distraction, safe spaces, and consistent routines to soothe an anxious dog."
+  },
+  {
+    "source": "https://www.avma.org/javma-news/2021-11-01/veterinary-behaviorists-no-role-for-aversive-dog-training-practices",
+    "title": "Veterinary Behaviorists: No Role for Aversive Dog-Training Practices",
+    "persona_category": "Behavior & Training",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": [
+      "training methods",
+      "positive reinforcement",
+      "aversive training",
+      "behavior modification"
+    ],
+    "summary": "Describes the position that aversive training methods are harmful, and recommends positive-reinforcement strategies as safer and more effective for modifying dog behavior."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/animal-health-and-welfare/socialization-dogs-and-cats",
+    "title": "Socialization of Dogs and Cats",
+    "persona_category": "Behavior & Training",
+    "age_group": ["puppy", "adult"],
+    "severity_level": "mild",
+    "topic_tags": ["socialization", "early exposure", "behavior prevention"],
+    "summary": "Stresses the importance of early, gradual exposure to people, animals, and environments to prevent behavioral problems, with tips for positive, supervised social experiences."
+  },
+  {
+    "source": "https://www.avma.org/resources-tools/pet-owners/petcare/walking-your-pet",
+    "title": "Walking Your Pet",
+    "persona_category": "Behavior & Training",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "mild",
+    "topic_tags": ["walking", "leash training", "exercise", "social behavior"],
+    "summary": "Covers best practices for walking dogs including leash use, training focus, environmental safety, socialization opportunities, and health benefits of regular walks."
+  },
+  {
+    "source": "https://www.avma.org/news/spread-word-how-prevent-dog-bites",
+    "title": "Spread the Word: How to Prevent Dog Bites",
+    "persona_category": "Behavior & Training",
+    "age_group": ["puppy", "adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": [
+      "bite prevention",
+      "education",
+      "child safety",
+      "behavior cues"
+    ],
+    "summary": "Promotes bite-prevention strategies through public education, recognizing dog body language, safe child-pet interactions, and proper supervision to reduce bite incidents."
+  },
+  {
+    "source": "https://www.avma.org/javma-news/2019-12-01/study-links-skin-allergies-dogs-problem-behaviors",
+    "title": "Study Links Skin Allergies in Dogs to Problem Behaviors",
+    "persona_category": "Behavior & Training",
+    "age_group": ["adult", "senior"],
+    "severity_level": "moderate",
+    "topic_tags": ["skin allergy", "behavior issues", "itching"],
+    "summary": "Research indicates that dogs with dermatologic conditions often exhibit increased aggression, fear, or reduced activity, highlighting the connection between skin health and behavior."
+  }
+]
