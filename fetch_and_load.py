@@ -1,16 +1,7 @@
-import re
-from urllib.parse import urlparse
 from dotenv import load_dotenv
 import os
 import json
 import openai
-from bs4 import BeautifulSoup
-import requests
-
-from langchain_community.document_loaders import WebBaseLoader
-from langchain_community.vectorstores import Pinecone
-from langchain.schema import Document
-from pinecone import Pinecone, ServerlessSpec
 from load_article import load_article
 
 #Step 0: Load environment variables from .env file
@@ -60,7 +51,7 @@ for url, meta in zip(urls, metas):
 
 print(f"Total clean documents ready: {len(docs)}")
 
-with open("data/John.json", "w+", encoding="utf-8") as f:
+with open("data/Main-JSON.json", "w+", encoding="utf-8") as f:
     json.dump(raw_data, f, indent=4, ensure_ascii=False)
 
 # Step 5: Saving docs as pickle for later use
