@@ -50,4 +50,3 @@ if st.button("Get Answer"):
 if "last_answer" in st.session_state:
     st.markdown("### Answer:")
     st.write(st.session_state["last_answer"])
-
