@@ -8,9 +8,25 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain.memory import ConversationBufferMemory
+import psycopg2
 
 # Step 0: Load env variables
 load_dotenv()
+
+# setup PostgreSQL connection
+conn = psycopg2.connect(
+    host = os.getenv("POSTGRESQL_HOST"),
+    port = 5432,
+    database = "postgres",
+    user = "postgres",
+    password = os.getenv("POSTGRESQL_PASSWORD")
+)
+cur = conn.cursor()
+# create table to store failed logs if not exists as in FAILED_LOGS.sql
+with open("FAILED_LOGS.sql", "r") as f:
+    cur.execute(f.read())
+conn.commit()
+print("Table 'failed_logs' created or already exists.")
 
 # Step 1: Initialize Pinecone Vector Store
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
@@ -48,8 +64,15 @@ def generate_response(query):
     if retrieved_docs:
         top_doc = retrieved_docs[0]
         title = top_doc.metadata.get("title", None)
-        url = top_doc.metadata.get("url", None)
+        url = top_doc.metadata.get("source", None)
     else:
+        # add the query to sql
+        conn.execute("""
+            INSERT INTO failed_logs (log_message)
+            VALUES (%s)
+        """, (query,))
+        conn.commit()
+
         return {
             "answer": "I'm sorry I do not have relevant information to answer that question.",
             "title": title,
@@ -58,7 +81,8 @@ def generate_response(query):
 
     system_prompt = (
     "Use the following context to answer the question.\n"
-    "If unsure, say 'I'm sorry I do not have relevant information to answer that question.'\n\n"
+    "If unsure, say 'I'm sorry I do not have relevant information to answer that question.'\n\n" \
+    "If the question is unrelated to veterinary care, pet health, or animal behavior, say 'I'm sorry I can only provide information on veterinary topics.'\n\n"
     "Context:\n{context}"
     )
 
@@ -84,6 +108,20 @@ def generate_response(query):
     memory.chat_memory.add_user_message(query)
     memory.chat_memory.add_ai_message(response)
 
+    if response == "I'm sorry I do not have relevant information to answer that question.":
+        # add the query to sql
+        cur.execute("""
+            INSERT INTO failed_logs (log_message)
+            VALUES (%s)
+        """, (query,))
+        conn.commit()
+        title = None
+        url = None
+    
+    if response == "I'm sorry I can only provide information on veterinary topics.":
+        title = None
+        url = None
+
     return {
         "answer": response,
         "title": title,
@@ -92,7 +130,7 @@ def generate_response(query):
 
 if __name__ == "__main__":
     # Step 7: Query the chain with a sample question
-    query = "What causes AIDs in humans?"
+    query = "What to do if my dog is backflipping?"
 
     # When we make this call, the chain will:
     # 1. Retrieve relevant documents from the Pinecone vector store based on the query. (This is done by the retriever.
