@@ -7,7 +7,7 @@ from langchain_pinecone import PineconeVectorStore
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
-from langchain.memory import ConversationBufferMemory
+from langchain_core.messages import HumanMessage, AIMessage
 import psycopg2
 
 # Step 0: Load env variables
@@ -37,8 +37,8 @@ vectorstore = PineconeVectorStore(index=index,
                                   text_key="text",  # Ensure this matches the field in your documents
                                   namespace="vetgpt")  # Use the same namespace as when you indexed your documents
 
-# Add Conversation Memory
-memory = ConversationBufferMemory(return_messages=True)  
+# Initialize conversation history
+conversation_history = []  
 
 # Step 2: Create Retrieval Chain
 # Retriever does embedding of the query and searches the vector store for similar documents.
@@ -75,8 +75,8 @@ def generate_response(query):
 
         return {
             "answer": "I'm sorry I do not have relevant information to answer that question.",
-            "title": title,
-            "url": url,
+            "title": None,
+            "url": None,
         }
 
     system_prompt = (
@@ -90,7 +90,7 @@ def generate_response(query):
     prompt = ChatPromptTemplate.from_messages(
         [
             ("system", system_prompt),
-            *memory.chat_memory.messages,  # Include conversation history
+            *conversation_history,  # Include conversation history
             ("human", "{input}")
         ]
     )
@@ -104,14 +104,14 @@ def generate_response(query):
         "context": retrieved_docs
     })
 
-    # Append the new query and response to the conversation memory
-    memory.chat_memory.add_user_message(query)
-    memory.chat_memory.add_ai_message(response)
+    # Append the new query and response to the conversation history
+    conversation_history.append(HumanMessage(content=query))
+    conversation_history.append(AIMessage(content=response))
 
     if response == "I'm sorry I do not have relevant information to answer that question.":
         # add the query to sql
         cur.execute("""
-            INSERT INTO failed_logs (log_message)
+            INSERT OR IGNORE INTO failed_logs (log_message)
             VALUES (%s)
         """, (query,))
         conn.commit()
@@ -130,7 +130,7 @@ def generate_response(query):
 
 if __name__ == "__main__":
     # Step 7: Query the chain with a sample question
-    query = "What to do if my dog is backflipping?"
+    query = "What to do if my dog is limping?"
 
     # When we make this call, the chain will:
     # 1. Retrieve relevant documents from the Pinecone vector store based on the query. (This is done by the retriever.

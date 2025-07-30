@@ -26,6 +26,14 @@ st.markdown("""
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
+# Step 2: Display conversation history
+# Display all messages
+for msg in st.session_state.messages:
+    with st.chat_message(msg["role"]):
+        st.markdown(msg["content"])
+
+st.markdown("----")
+
 # --- Input Area (text field + button on same row) ---
 with st.form("chat_form", clear_on_submit=True):
     user_query = st.text_input(
@@ -49,18 +57,14 @@ if submitted and user_query:
 
     # Add assistant message to conversation history
     st.session_state.messages.append({"role": "assistant", "content": result["answer"]})
-    
+
     # Add source information if available
-    if result["title"] and result["title"] != None:
+    if result.get("title"):
         source_info = f"**Source**: {result['title']}"
-        if result["url"] and result["url"] != None:
+        if result.get("url"):
             source_info += f" - [More details]({result['url']})"
         st.session_state.messages.append({"role": "assistant", "content": source_info})
 
-# Step 2: Display conversation history
-st.markdown("----")
+    # Force rerun so new messages appear immediately
+    st.rerun()
 
-# Display all messages
-for msg in st.session_state.messages:
-    with st.chat_message(msg["role"]):
-        st.markdown(msg["content"])
