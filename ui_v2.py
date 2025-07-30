@@ -7,7 +7,7 @@ from retrieve_and_generate import generate_response
 load_dotenv()
 
 if hasattr(st, "secrets"):
-    for key in ("OPENAI_API_KEY", "PINECONE_API_KEY", "PINECONE_INDEX"):
+    for key in ("OPENAI_API_KEY", "PINECONE_API_KEY", "PINECONE_INDEX", "POSTGRESQL_HOST", "POSTGRESQL_PASSWORD"):
         if key in st.secrets:
             os.environ[key] = st.secrets[key]
 

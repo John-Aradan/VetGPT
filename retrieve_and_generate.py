@@ -25,7 +25,6 @@ cur = conn.cursor()
 with open("FAILED_LOGS.sql", "r") as f:
     cur.execute(f.read())
 conn.commit()
-print("Table 'failed_logs' created or already exists.")
 
 # Step 1: Initialize Pinecone Vector Store
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
