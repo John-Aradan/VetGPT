@@ -25,7 +25,7 @@ def set_background_image(image_path):
         <style>
         .stApp {{
             background-image:
-              linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+              linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
               url("data:image/png;base64,{encoded}");
             background-size: cover;
             background-position: center;
@@ -57,7 +57,7 @@ if not st.session_state.agreed_to_disclaimer:
     st.stop()  # Stop further execution until the user agrees
 
 # Step 1: Initialize Streamlit app
-st.title("🐶 VetGPT: Your Veterinary AI Assistant")
+st.markdown('<h2 style="text-align:center;">VetGPT: Your Veterinary AI Assistant</h2>', unsafe_allow_html=True)
 
 st.markdown("""
 Welcome to **VetGPT**, your trusted AI companion for reliable, up-to-date veterinary guidance.
