@@ -13,25 +13,6 @@ import psycopg2
 # Step 0: Load env variables
 load_dotenv()
 
-if hasattr(st, "secrets"):
-    for key in ("OPENAI_API_KEY", "PINECONE_API_KEY", "PINECONE_INDEX", "POSTGRESQL_HOST", "POSTGRESQL_PASSWORD"):
-        if key in st.secrets:
-            os.environ[key] = st.secrets[key]
-
-# setup PostgreSQL connection
-conn = psycopg2.connect(
-    host = os.getenv("POSTGRESQL_HOST"),
-    port = 5432,
-    database = "postgres",
-    user = "postgres",
-    password = os.getenv("POSTGRESQL_PASSWORD")
-)
-cur = conn.cursor()
-# create table to store failed logs if not exists as in FAILED_LOGS.sql
-with open("FAILED_LOGS.sql", "r") as f:
-    cur.execute(f.read())
-conn.commit()
-
 # Step 1: Initialize Pinecone Vector Store
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
 index = pc.Index(os.getenv("PINECONE_INDEX"))
@@ -70,13 +51,6 @@ def generate_response(query):
         title = top_doc.metadata.get("title", None)
         url = top_doc.metadata.get("source", None)
     else:
-        # add the query to sql
-        conn.execute("""
-            INSERT INTO failed_logs (log_message)
-            VALUES (%s)
-        """, (query,))
-        conn.commit()
-
         return {
             "answer": "I'm sorry I do not have relevant information to answer that question.",
             "title": None,
@@ -113,12 +87,6 @@ def generate_response(query):
     conversation_history.append(AIMessage(content=response))
 
     if response == "I'm sorry I do not have relevant information to answer that question.":
-        # add the query to sql
-        cur.execute("""
-            INSERT OR IGNORE INTO failed_logs (log_message)
-            VALUES (%s)
-        """, (query,))
-        conn.commit()
         title = None
         url = None
     

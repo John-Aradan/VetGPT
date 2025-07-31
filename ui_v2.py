@@ -1,7 +1,8 @@
 import streamlit as st
 import os
 from dotenv import load_dotenv
-from retrieve_and_generate import generate_response
+from generate import generate_response
+import base64
 
 # Step 0: load secrets
 load_dotenv()
@@ -14,6 +15,29 @@ if hasattr(st, "secrets"):
 # This is an updated version of the VetGPT_UI.py the main change is that we would now be able to continue
 # the conversation with the LLM and it will remember the context of the conversation. Streamlit should diplay 
 # the conversation history and the user can continue to ask questions.
+
+# Set up a background image for the Streamlit app
+def set_background_image(image_path):
+    with open(image_path, "rb") as img_file:
+        encoded = base64.b64encode(img_file.read()).decode()
+    st.markdown(
+        f"""
+        <style>
+        .stApp {{
+            background-image:
+              linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+              url("data:image/png;base64,{encoded}");
+            background-size: cover;
+            background-position: center;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+# Set the background image
+set_background_image("Background-Images\dog5.avif")
+
 
 # Step 1: Initialize Streamlit app
 st.title("VetGPT: Your Veterinary AI Assistant")
