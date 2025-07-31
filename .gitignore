@@ -3,4 +3,4 @@
 Cleaned-Data/
 .vscode/
 __pycache__/
-.streamlit/
+.streamlit/secrets.toml
