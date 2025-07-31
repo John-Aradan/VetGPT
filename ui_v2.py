@@ -38,13 +38,39 @@ def set_background_image(image_path):
 # Set the background image
 set_background_image(r"Background-Images/dog5.avif")
 
+# Create a warning message for the user
+
+# Initialize session state for gatekeeping
+if "agreed_to_disclaimer" not in st.session_state:
+    st.session_state.agreed_to_disclaimer = False
+
+# Disclaimer message
+if not st.session_state.agreed_to_disclaimer:
+    st.warning(
+        "VetGPT is an AI assistant designed to provide general information about pet health and veterinary care. "
+        "It is not a substitute for professional veterinary advice, diagnosis, or treatment. Always seek the advice of your veterinarian with any questions you may have regarding a medical condition."
+    )
+    
+    if st.button("I Agree"):
+        st.session_state.agreed_to_disclaimer = True
+        st.rerun()  # Rerun to clear the disclaimer
+    st.stop()  # Stop further execution until the user agrees
 
 # Step 1: Initialize Streamlit app
-st.title("VetGPT: Your Veterinary AI Assistant")
+st.title("🐶 VetGPT: Your Veterinary AI Assistant")
+
 st.markdown("""
-    Welcome to VetGPT! Ask me anything about veterinary care, pet health, or animal behavior.
-    I can provide information based on a wide range of veterinary articles and guidelines.
+Welcome to **VetGPT**, your trusted AI companion for reliable, up-to-date veterinary guidance.
+
+You can ask anything about **pet health, veterinary care, or animal behavior** — with a special focus on **dogs**, which is our current area of expertise.
+
+VetGPT generates answers based on carefully retrieved content from **five leading veterinary medicine sources**:
+[PetMD](https://www.petmd.com), [AVMA](https://www.avma.org), [AKC](https://www.akc.org), [VCA Hospitals](https://vcahospitals.com), and [Tufts Clinical Nutrition Center](https://vetnutrition.tufts.edu).
+
+All responses are grounded in professionally authored veterinary articles.
 """)
+
+
 
 # Initialize messages in session state
 if "messages" not in st.session_state:
