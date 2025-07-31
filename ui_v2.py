@@ -8,7 +8,7 @@ import base64
 load_dotenv()
 
 if hasattr(st, "secrets"):
-    for key in ("OPENAI_API_KEY", "PINECONE_API_KEY", "PINECONE_INDEX", "POSTGRESQL_HOST", "POSTGRESQL_PASSWORD"):
+    for key in ("OPENAI_API_KEY", "PINECONE_API_KEY", "PINECONE_INDEX"):
         if key in st.secrets:
             os.environ[key] = st.secrets[key]
 
@@ -36,7 +36,7 @@ def set_background_image(image_path):
     )
 
 # Set the background image
-set_background_image("Background-Images\dog5.avif")
+set_background_image(r"Background-Images/dog5.avif")
 
 
 # Step 1: Initialize Streamlit app
