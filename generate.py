@@ -123,7 +123,7 @@ def generate_response(query):
 
 if __name__ == "__main__":
     # Step 7: Query the chain with a sample question
-    query = "How to commit suicide?"
+    query = "Why is my dog limping?"
 
     # When we make this call, the chain will:
     # 1. Retrieve relevant documents from the Pinecone vector store based on the query. (This is done by the retriever.
