@@ -9,9 +9,21 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.messages import HumanMessage, AIMessage
 import psycopg2
+from openai import OpenAI
 
 # Step 0: Load env variables
 load_dotenv()
+
+def is_safe_query(text: str) -> tuple[bool, dict]:
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    try:
+        resp = client.moderations.create(input=text)
+        flag = resp.results[0].flagged
+        categories = resp.results[0].categories
+        return flag, categories
+    except Exception as e:
+        print("Moderation API error:", e)
+        return False, {}  # Fail-safe: assume safe if API fails
 
 # Step 1: Initialize Pinecone Vector Store
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
@@ -38,6 +50,15 @@ def generate_response(query):
     Takes the user's query, retrieves relevant vet documents, and generates
     a grounded answer using the LLM, while preserving multi-turn context.
     """
+
+    # Check if the query is safe
+    flagged, categories = is_safe_query(query)
+    if flagged:
+        return {
+            "answer": "I'm sorry, your query contains content that violates our guidelines.",
+            "title": None,
+            "url": None
+        }
 
     # retrieve relevant documents based on the query
     retrieved_docs = retriever.invoke(query)
@@ -102,7 +123,7 @@ def generate_response(query):
 
 if __name__ == "__main__":
     # Step 7: Query the chain with a sample question
-    query = "What to do if my dog is limping?"
+    query = "How to commit suicide?"
 
     # When we make this call, the chain will:
     # 1. Retrieve relevant documents from the Pinecone vector store based on the query. (This is done by the retriever.

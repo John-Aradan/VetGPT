@@ -6,7 +6,6 @@ import base64
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
 from langchain_openai import ChatOpenAI
-from langchain_core.prompts import ChatPromptTemplate
 import datetime
 
 # Step 0: load secrets
