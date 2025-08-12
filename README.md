@@ -51,7 +51,7 @@ VetAI/
 
 - **Auto-Learning**
 
-  System improves over time based on usage patterns
+  System improves over time based on 'Missing prompts' that are saved
 
 - **Database Integration**
 
