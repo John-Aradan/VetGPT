@@ -4,6 +4,8 @@
 
 A retrieval‑augmented assistant for veterinary health content. VetAI indexes reference articles, retrieves the most relevant chunks for a user question, and generates grounded answers with clear citations. A simple Streamlit UI is included for interactive use.
 
+Checkout Cloud version at [VetGPT](https://vet-gpt.streamlit.app/)
+
 ## 🚀 Features
 
 - **Document indexing** – scripts to parse and chunk source material, then push embeddings to a vector store.
