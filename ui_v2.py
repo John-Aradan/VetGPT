@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 from dotenv import load_dotenv
-from retrieve_and_generate import generate_response
+from generate import generate_response
 import base64
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
