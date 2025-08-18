@@ -1,5 +1,11 @@
 # VetAI
 
+<div align="center">
+  
+  [![Try VetAI - Powered by Streamlit](https://img.shields.io/badge/🚀%20Try%20VetAI-Powered%20by%20Streamlit-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logoColor=white)](https://vet-gpt.streamlit.app/)
+  
+</div>
+
 ## Overview
 
 A retrieval‑augmented assistant for veterinary health content. VetAI indexes reference articles, retrieves the most relevant chunks for a user question, and generates grounded answers with clear citations. A simple Streamlit UI is included for interactive use.
